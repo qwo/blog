@@ -1,7 +1,7 @@
-title: Recommended Reads for Software Developers
-date: 2014-02-27 15:25:58
-tags: recommended
----
++++
+title = "Recommended Reads for Software Developers"
+date = "2014-02-27T15:25:58"
++++
 
 Shortlist of TODOs and recommendations for softare reads.
 ----

@@ -1,7 +1,9 @@
-title: Prepping for a Technical Interview
-date: 2014-03-18 18:43:11
-tags: interview
----
++++
+title = "Prepping for a Technical Interview"
+date = "2014-03-18T18:43:11"
++++
+
+I gave a talk at my local ACM about how to prepare for techincal interviews. It's sorely something not touched on at my school and wanted to give students some advice about doing so.
 
 
 Algorithms

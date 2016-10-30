@@ -1,7 +1,7 @@
-title: Living with glass
-date: 2014-01-11 16:08:49
-tags: glass
----
++++
+title = "Google Glass: First Impressions"
+date = "2014-01-11T16:08:49"
++++
 
 Wearing glass in the wild is an interesting experience. This blog reflecting on a developer who returned glass after 30 days http://blog.rememberlenny.com/blog/2014/01/05/i-return-ed-my-google-glass-after-30-days/ struck
 

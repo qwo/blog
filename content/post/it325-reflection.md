@@ -1,8 +1,9 @@
-title: IT325 End of Class Reflections
-date: 2014-04-20 01:26:54
-tags: school
----
-Reflection Essay
++++
+title = "How we should teach Web in School"
+date = "2014-04-20 01:26:54"
++++
+
+Final notes from a web course
 ----
 
 Through the course I learned the value of design for implementing web projects. As working for a developer who specialized in the backend, design was often an after thought to functionality. When designing a certain site for a client or for a product, it is important to start with the design first, instead of working backwards. This hopefully can help drive development and make the user experience flow better.

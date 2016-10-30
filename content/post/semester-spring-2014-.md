@@ -1,8 +1,8 @@
-title: Semester Spring 2014
++++
+title = "Semester Spring 2014"
 
-date: 2014-01-14 11:05:17
-tags: school
----
+date = "2014-01-14T11:05:17"
++++
 
 My schedule for 2014 and into a short commentary about it.
 

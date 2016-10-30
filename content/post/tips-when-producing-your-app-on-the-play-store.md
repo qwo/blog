@@ -1,7 +1,10 @@
-title: Tips when producing your app on the play store
-date: 2014-02-18 09:27:03
-tags: android
----
++++
+title = "Dont lock yourself out on the Play Store"
+"date" = "2014-02-18T09:27:03"
+
++++
+
+ Tips when producing your app on the play store
 
 + Make sure you set the price avaliable in all  countries
 + Don't lose your APK signing key, you'll regret it

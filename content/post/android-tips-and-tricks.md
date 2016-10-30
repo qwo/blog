@@ -1,5 +1,5 @@
 +++
-title="Android and Java Cheat Sheet"
+title="Tricks when Developing on Android and Java"
 date="2014-01-14T16:34:36"
 +++
 ---

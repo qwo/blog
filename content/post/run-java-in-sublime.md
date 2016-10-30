@@ -1,10 +1,11 @@
-title: Run Java in Sublime
-date: 2014-01-29 22:09:25
-tags: Sublime 
++++
+title = "Run Java in Sublime:"
+date = "2014-01-29T22:09:25:"
++++
 ---
 This is for mac on sublime.
 
-It makes it a bit easier to build and run java everytime you compile. Speeds up from moving to terminal each time. 
+It makes it a bit easier to build and run java everytime you compile. Speeds up from moving to terminal each time.
 
 ***using sublime or text editor is sometimes unmanagable for java but the anti-eclipse club is strong...***
 

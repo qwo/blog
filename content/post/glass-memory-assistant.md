@@ -1,12 +1,9 @@
-title: Glass-Memory-Assistant
-date: 2014-01-16 00:37:28
-tags:
-- ODU 
-- CS410
-- School
----
++++
+title = "Glass-Memory-Assistant"
+date = "2014-01-16T00:37:28"
++++
 
-Sound familiar?
+I worked on a Glass memory assistant at a past Hackathon. It ended up not working out well but lots of people are venturing in the space.
 
 http://www.hpl.hp.com/techreports/2001/HPL-2001-145.pdf
 
