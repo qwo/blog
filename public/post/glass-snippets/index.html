@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="generator" content="Hugo 0.17" />
+
+
+<title> - Latest Works </title>
+<meta property="og:title" content=" - Latest Works ">
+
+
+
+  
+
+
+
+
+
+
+<link rel="stylesheet" href="http://replace-this-with-your-hugo-site.com/css/main.css" media="all">
+<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Merriweather:400|Lato:400,400italic,700">
+
+  </head>
+  <body>
+    <div class="wrapper">
+      <header class="header">
+        <nav class="nav">
+  <a href="http://replace-this-with-your-hugo-site.com/" class="nav-logo"><img src="http://replace-this-with-your-hugo-site.com/images/" width="" height=""></a>
+
+  <ul class="nav-links">
+    
+  </ul>
+</nav>
+
+      </header>
+
+
+<main class="content" role="main">
+
+  <article class="article">
+    
+    <span class="article-duration">1 min read</span>
+    
+
+    <h1 class="article-title"></h1>
+
+    
+    <span class="article-date">January 1, 0001</span>
+    
+
+    <div class="article-content">
+      
+
+<p>title: glass-snippets
+date: 2014-02-11 16:27:03
+tags:
+- java</p>
+
+<h2 id="android">- android</h2>
+
+<p>Add flag to keep the screen on,</p>
+
+<pre><code class="language-java">public void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_flag);
+        getWindow().addFlags(WindowManager.LayoutParams.FLAG_KEEP_SCREEN_ON);
+}
+
+
+//can be removed with
+getWindow().clearFlags(WindowManager.LayoutParams.FLAG_KEEP_SCREEN_ON);
+</code></pre>
+
+<p>Start the camera intent</p>
+
+<pre><code class="language-java">startActivity();
+
+		//camera pic taking
+Intent cameraIntent = new Intent(MediaStore.ACTION_IMAGE_CAPTURE, null);
+startActivityForResult(cameraIntent, 1);
+
+</code></pre>
+
+<p>keep the  camera unscrambled
+ <a href="http://stackoverflow.com/questions/19235477/google-glass-preview-image-scrambled-with-new-xe10-release">http://stackoverflow.com/questions/19235477/google-glass-preview-image-scrambled-with-new-xe10-release</a></p>
+
+<pre><code class="language-java">parameters.setPreviewFpsRange(30000, 30000);
+/*
+    Camera.Parameters params = camera.getParameters();
+    params.setPreviewFpsRange(30000, 30000);
+    camera.setParameters(params);
+*/
+
+</code></pre>
+
+<p>open url</p>
+
+<pre><code class="language-java">		//url opening
+		String url = &quot;https://mobile.xtuple.com&quot;;
+		Intent intent = new Intent(Intent.ACTION_VIEW);
+		intent.setData(Uri.parse(url));
+		startActivity(intent);
+
+</code></pre>
+
+<p>trying to build to something shell proprerties</p>
+
+<pre><code class="language-java">Google Inc.:Glass Development Kit Sneak Peek:15
+</code></pre>
+
+<p>on keydown, emit something</p>
+
+<pre><code class="language-java">    @Override
+    public boolean onKeyDown(int keycode, KeyEvent event) {
+        if (keycode == KeyEvent.KEYCODE_DPAD_CENTER) {
+            openOptionsMenu();
+            Log.v(&quot;@@@@&quot;,&quot;TEST&quot;);
+            return true;
+        }
+        return false;
+    }
+</code></pre>
+
+<p>Insert a card into the timeline via gdk</p>
+
+<pre><code class="language-java">
+		mTimelineManager = TimelineManager.from(this);
+		Card card = new Card(this);
+		card.setText(&quot;Hello World&quot;).setFootnote(&quot;Footer&quot;).addImage(R.drawable.ic_launcher);
+		mTimelineManager.insert(card);
+
+</code></pre>
+
+    </div>
+  </article>
+
+  <div id="disqus_thread"></div>
+<script type="text/javascript">
+    var disqus_shortname = 'stanley_zheng';
+    var disqus_identifier = 'http:\/\/replace-this-with-your-hugo-site.com\/post\/glass-snippets\/';
+    var disqus_title = '';
+    var disqus_url = 'http:\/\/replace-this-with-your-hugo-site.com\/post\/glass-snippets\/';
+
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+
+</main>
+
+      <footer class="footer">
+        <ul class="footer-links">
+          <li>
+            <a href="http://replace-this-with-your-hugo-site.com/index.xml" type="application/rss+xml" target="_blank">RSS feed</a>
+          </li>
+          <li>
+            <a href="https://gohugo.io/" class="footer-links-kudos">Made with <img src="http://replace-this-with-your-hugo-site.com/images/hugo-logo.png" width="22" height="22"></a>
+          </li>
+        </ul>
+      </footer>
+
+    </div>
+
+    
+  </body>
+</html>
+
