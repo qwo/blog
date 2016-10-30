@@ -1,6 +1,6 @@
 +++
 title= "[C++ Standard and Education]"
-date= "2014-03-08 19:23:50"
+date= "2014-03-08T19:23:50"
 +++
 
 I learned mostly C++99 standards throughout my time at my CS Course program. Actually scratch that, it wasn't even explained the different in standards. Even from traditional C, or C99, its funny how institutions focus on learning but give only a breadth first generalistic approach to most education

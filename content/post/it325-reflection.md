@@ -1,6 +1,6 @@
 +++
 title = "How we should teach Web in School"
-date = "2014-04-20 01:26:54"
+date = "2014-04-20T01:26:54"
 +++
 
 Final notes from a web course

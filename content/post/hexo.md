@@ -1,6 +1,6 @@
 +++
 title = "Debugging Hexo"
-date = "2014-01-15 01:07:22"
+date = "2014-01-15T01:07:22"
 +++
 
 I swapped by blog over to Hexo. Here are some issues I ran across

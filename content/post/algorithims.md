@@ -18,11 +18,6 @@ peaks
        - minheap, nodes are always smaller than or equal to their children (min heap property)
 - heap sort -- heap on a tree, (breadth first view,)
      int array[7]; indexies
-     1
-    /\
-   2  3
-  /\  /\
- 4  5 6 7
 -AVL trees
    - traverse = n
    - insert nlog(n)
