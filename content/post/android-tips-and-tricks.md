@@ -10,12 +10,12 @@ date="2014-01-14T16:34:36"
     *   Broadcast Receiver -The intent deliverer
 
 Logcat filtering without eclipse.
-```shell
+```bash
 adb logcat | grep --line-buffered "mysearch"
 ```
 
 to pipe out to txt file
-```shell
+```bash
 adb logcat | grep --line-buffered "mysearch" > mylog.txt
 
 ```
@@ -23,16 +23,16 @@ adb logcat | grep --line-buffered "mysearch" > mylog.txt
 
 open and visit website via intent
 ```java
-adb shell am start -a android.intent.action.VIEW -d http://www.stackoverflow.com
+adb bash am start -a android.intent.action.VIEW -d http://www.stackoverflow.com
 ```
 Build from commandline an android project (replace 'Hello with name of Project')
 
-```shell
+```bash
 android update project --name Hello --path
 ```
 
 Use Environment Variables versus a sample or config file
-```shell
+```bash
 export VARIABLE_NAME="VALUE"
 export MIRROR_DEMO_CLIENT_ID="your app's id"
 export MIRROR_DEMO_CLIENT_SECRET="your app's secret"
@@ -51,7 +51,7 @@ Run an application from adb
 
 #example running setting
 
-adb shell am start -a android.intent.action.Main -n com.android.settings/.Settings
+adb bash am start -a android.intent.action.Main -n com.android.settings/.Settings
 ```
 
 Diagram
@@ -63,14 +63,14 @@ Always Check the manifest for all related information
 
 run the app, replace the latter with the activity you want to invoke
 ---
-adb shell am start -n com.google.zxing.client.android/.CaptureActivity
+adb bash am start -n com.google.zxing.client.android/.CaptureActivity
 
 Jars are just zips
 -----
 Use a utility like JD-GUI or Jad to unzip a jar and get the source. Perfect for when you lose the source or when you want to tinker.
 
 
-``` shell
+``` bash
 
 jar -xf YOURJAR.jar && find . -iname "*.class" | xargs ./jad -r
 #cd into the directory and

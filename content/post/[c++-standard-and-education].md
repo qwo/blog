@@ -7,19 +7,19 @@ I learned mostly C++99 standards throughout my time at my CS Course program. Act
 
 
 Compiling with C+11
-```shell
+```bash
 clang++ -std=c++11 -stdlib=libc++ -Weverything prog6.cpp -o prog6
 ```
 
 Supressing compile with C+99 errors
 ```
 
-```shell
+```bash
 clang++ -std=c++11 -stdlib=libc++ -w -Weverything prog6.cpp -o prog6
 ```
 
 ignore C++99
-```shell
+```bash
 clang++ -w -std=c++11 -stdlib=libc++ -w -Weverything prog6.cpp -o prog6
 ```
 See this gist for more info on how to integrate into sublime text 2/3 for your build system file.

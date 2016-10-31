@@ -39,7 +39,7 @@ Congrats to the winners and until the next hackathon..
 Random thoughts
 -----
 on osx
-``` shell
+``` bash
 Locate your DB
 sudo /usr/libexec/locate.updatedb
 ```
