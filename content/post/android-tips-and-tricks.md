@@ -1,5 +1,5 @@
 +++
-title="Tricks when Developing on Android and Java"
+title="Tricks when Developing on Android with Java"
 date="2014-01-14T16:34:36"
 +++
 ---
@@ -47,10 +47,9 @@ var oauth2Client = new OAuth2Client(process.env.MIRROR_DEMO_CLIENT_ID,
 
 
 Run an application from adb
-```android
+```bash
 
 #example running setting
-
 adb bash am start -a android.intent.action.Main -n com.android.settings/.Settings
 ```
 
