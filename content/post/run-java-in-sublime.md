@@ -1,6 +1,6 @@
 +++
 title = "Run Java in Sublime:"
-date = "2014-01-29T22:09:25:"
+date = "2014-01-29T22:09:25"
 +++
 ---
 This is for mac on sublime.

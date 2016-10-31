@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://blog.stanzheng.org/"
+baseurl = "https://blog.stanzheng.com/"
 languageCode = "en-us"
 title = "Stanley Zheng"
 theme = "cactus"
@@ -12,7 +12,7 @@ paginate = 8
 [params]
 	name = "Stanley Zheng"
 	description = "Describe your website"
-	bio = "Blogger - Programmer - Gopher"
+	bio = "Recurser - Developer - Foodie"
 	# Enter optionally your twitter account
 	twitter = "stanzheng"
 	enableRSS = true
@@ -42,7 +42,7 @@ paginate = 8
 	subtitle404 = ""
 
 	# Choose a font for the social icons in the footer. Either "mono-social" or "font-awesome"
-	iconFont = "mono-social"
+	iconFont = "font-awesome"
     # The social icons can be styled differently if you use mono as font - circle, rounded, or empty
     socialIconStyle = "circle"
 
