@@ -1,5 +1,5 @@
 +++
-title = "Recommended Reads for Software Developers"
+title = "Reads for Software Developers"
 date = "2014-02-27T15:25:58"
 +++
 
