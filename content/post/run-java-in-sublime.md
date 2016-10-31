@@ -1,5 +1,5 @@
 +++
-title = "Run Java in Sublime:"
+title = "Develop Java in Sublime"
 date = "2014-01-29T22:09:25"
 +++
 ---

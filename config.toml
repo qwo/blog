@@ -11,7 +11,7 @@ paginate = 8
 
 [params]
 	name = "Stanley Zheng"
-	description = "Describe your website"
+	description = "Programmer Blog, trying to share insights and knowledge picked up along the way."
 	bio = "Recurser - Developer - Foodie"
 	# Enter optionally your twitter account
 	twitter = "stanzheng"
