@@ -1,6 +1,5 @@
 +++
 title = "Easy Server Sync"
-description = "don't need browsersync to be fancy"
 date = "2016-09-20T01:23:49-04:00"
 publish = "true"
 +++

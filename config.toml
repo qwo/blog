@@ -4,7 +4,7 @@ languageCode = "en-us"
 title = "Stanley Zheng"
 theme = "cactus"
 # Enter your tracking code to enable Google Analytics
-googleAnalytics = ""
+googleAnalytics = "UA-73744856-3"
 # Disable comments by leaving disqusShortname empty
 disqusShortname = "stanzheng"
 paginate = 8
@@ -12,7 +12,7 @@ paginate = 8
 [params]
 	name = "Stanley Zheng"
 	description = "Programmer Blog, trying to share insights and knowledge picked up along the way."
-	bio = "Recurser - Developer - Foodie"
+	bio = "Developer - Foodie - Friendly Human"
 	# Enter optionally your twitter account
 	twitter = "stanzheng"
 	enableRSS = true
