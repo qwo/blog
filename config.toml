@@ -17,6 +17,7 @@ paginate = 8
 	twitter = "stanzheng"
 	enableRSS = true
 	aboutURL = "https://stanzheng.com"
+	subscribeURL = "/subscribe"
 	# Add custom assets with their paths relative to the static folder
 	customCSS = []
 	customJS  = []
@@ -27,7 +28,7 @@ paginate = 8
 	# Navigation links
 	home = ""
 	about = ""
-	subscribe = ""
+	subscribe = "Join Mailing List"
 	# Pagination links
 	olderPosts = ""
 	newerPosts = ""
@@ -51,3 +52,4 @@ paginate = 8
     twitter  = "https://www.twitter.com/stanzheng"
     facebook = "https://www.facebook.com/stanley.zheng.usa"
     github   = "https://www.github.com/stanzheng"
+	rss  	 = "/index.xml"
