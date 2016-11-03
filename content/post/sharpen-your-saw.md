@@ -2,6 +2,8 @@
 layout = "post"
 title = "Sharpen Your Saw -  Lodash"
 published = "true"
+tags = [ "Javascript"]
+portfolio = [2016]
 date= "2014-06-14T19:23:50"
 +++
 

@@ -9,6 +9,10 @@ googleAnalytics = "UA-73744856-3"
 disqusShortname = "stanzheng-com"
 paginate = 8
 
+[taxonomies]
+tag = "tags"
+view = "view"
+
 [params]
 	name = "Stanley Zheng"
 	description = "Programmer Blog, trying to share insights and knowledge picked up along the way."
