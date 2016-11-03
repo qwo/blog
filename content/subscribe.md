@@ -1,8 +1,7 @@
 +++
 description = ""
-date = "2016-11-02T17:08:01-04:00"
+date = "2014-11-02T17:08:01-04:00"
 title = "Thanks for Checking out my Blog"
-draft = true
 +++
 
 If you enjoyed what you've seen join my mailing list.
@@ -20,7 +19,7 @@ Opt in to learn when new blog post and developments happen. I don't like spam ei
 <div id="mc_embed_signup">
 <form action="//stanzheng.us14.list-manage.com/subscribe/post?u=af7d82c46c327392cdcbf3e9e&amp;id=c7575c62c7" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-	<h2>Subscribe to our mailing list</h2>
+	<h2>Subscribe</h2>
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group">
 	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
