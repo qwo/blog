@@ -1,5 +1,5 @@
 +++
-title = "Making a game with Appcelerator"
+title = "DE Hackathon with Appcelerator"
 date = "2014-02-11T23:53:51-04:00"
 +++
 
@@ -7,22 +7,22 @@ Dominion Enterprises Hackathon
 =====
 <img width="300" height="300" src="https://lh4.googleusercontent.com/-5PpC1BjbVs8/Uv44fmNPDeI/AAAAAAAACXE/mCeMokuXAnc/w1484-h1090-no/20140206_092115_483.jpg" alt="Kick off, 7 Schools and 9 teams from Virginia">
 
-A hackathon, also known as a hack day, hackfest or codefest,is an event in which computer programmers and others involved in software development, including graphic designers, interface designers and project managers, collaborate intensively on software projects.
+A hackathon, also known as a hack day, hack fest or code fest, is an event in which computer programmers and others involved in software development, including graphic designers, interface designers, and project managers, collaborate intensively on software projects.
 
-This was Dominion's Seventh hackathon and second edition of HackU, a hackathon where schools were invited across Virginia. Paired with three coaches and given 24 hours, each team was read a challenge on gameification and set off to build something. None of the members of our team had more that a few hours of experience with titanium and almost none with Lanica.
+This was Dominion's Seventh hackathon and the second edition of HackU, a hackathon where schools were invited across Virginia. Paired with three coaches and given 24 hours, each team was read a challenge on gamification and set off to build something. None of the members of our team had more that a few hours of experience with titanium and almost none with Lanica.
 
 The inspiration
 ======
-The concept of the game came from staring off the 20th floor of Dominion Enterprises. We were using the windows as white boards, and one of our team mates suggested a game where you dodged obstacles and projectiles on a motorcycle. But then we thought it would be more fun to be the one chucking the obstacles.
+The concept of the game came from looking off the 20th floor of Dominion Enterprises. We were using the windows as white boards, and one of our teammates suggested a game where you dodged obstacles and projectiles on a motorcycle. But then we thought it would be more fun to be the one chucking the obstacles.
 
-We wanted to make a game where you are a person on a top of a building who is pelting moving vehicles below. It evolved when we wanted to make our miscrenent into a hero; We made the objective to egg to protect and the egger, a grouchy grandma.
+We wanted to make a game where you are a person on a top of a building who is pelting moving vehicles below. It evolved when we wanted to make our mischievous egger into a hero; We made the objective to egg cars to protect and the egger, a grouchy grandma.
 
 <img width="300" height="300" src="https://lh4.googleusercontent.com/-rfLUY1Fd8jE/Uv44fvkVwiI/AAAAAAAACW8/HoNxubjXnbw/w1484-h1090-no/20140206_101159_118.jpg" alt="the team">
 
 <img width="300" height="300" src="https://lh4.googleusercontent.com/-MktpVd_FsJM/Uv44gH65sNI/AAAAAAAACXA/zBl6XFQuV5Q/w1484-h1090-no/20140206_094004_208.jpg" alt="Looking 20 floors down ">
 
 Neighborhood Watch was thus hatched.
-A pack of reckless motorists have invaded your neighborhood. Protect your neighbors as they cross the street by egging the cars before anyone gets hurt.
+A pack of reckless motorists has invaded your neighborhood. Protect your neighbors as they cross the street by egging the cars before anyone gets hurt.
 
 Playstore = https://play.google.com/store/apps/details?id=com.DWS.neighborhoodwatch
 Github:  https://github.com/stanzheng/HackU2
@@ -42,14 +42,14 @@ We then inserted more sprites that our graphic artists created. Boom!
 We then inserted more sprites that our graphic artists created. Boom!
 <img width="300" height="300" src="https://lh6.googleusercontent.com/-KpQ6lqEPn6M/Uv44iMVHPeI/AAAAAAAACXY/UZeo-OLSaH0/w1484-h1090-no/20140206_160944_959.jpg" alt="crazy town">
 
-After a bit of sloshing we got collisions working; in the context of the app we could crash two cars together and they would disappearing.
+After a bit of sloshing we got collisions working; in the context of the app we could crash two cars together and they would disappear.
 
 Using this mechanic, we started adding pedestrians into the mix.
 <img width="300" height="300" src="https://lh5.googleusercontent.com/-qFfZVyj-9o4/Uv5IJTvKQMI/AAAAAAAACZQ/xm7ja2Oszhg/w1198-h674-no/Bf1WYRkCMAAs-ZQ.png" alt="Pedestrians ">
 
 
 
-At this end of the night we had core mechanics working, day two would be about polish and presentaiton. It was nice how fast it was to prototype all our ideas out and then bring it together in lanica.
+At this end of the night we had core mechanics working, day two would be about polish and presentation. It was nice how fast it was to prototype all our ideas out and then bring it together in **Lanica**.
 
 + Sprite movement
 + vehicle and person collision
@@ -83,9 +83,9 @@ The presentation hall was packed and 9 teams would be showing what they accompli
 
 <img width="300" height="300" src="https://lh4.googleusercontent.com/-wpJ66W4pmBI/Uv44kf2sbPI/AAAAAAAACXw/-1Itq2Nq4To/w1484-h1090-no/20140207_150501_661.jpg" alt="presentation time ">
 
-We performed our presentation with an ouyva, an android powered video game console. Due to the controller not working, we utilized a mouse to present.
+We performed our presentation with an **Ouyva**, an android powered video game console. Due to the controller not working, we utilized a mouse to present.
 
-Overall we took first place and best in show for use of Appcelerator/Lanica and the Dominion Enterprises APIs.
+Overall we took first place and **Best in Show** for use of Appcelerator/Lanica and the Dominion Enterprises APIs.
 
 <img width="500" height="500" src="https://pbs.twimg.com/media/Bf63cW3IAAASfMT.jpg:large" alt="win! ">
 
@@ -95,16 +95,16 @@ If you're still interested take a look at the source code and look below.
 
 Some other notes and some of the Cool Stuff From Platino
 ======
-Here are some of the notable ways we used parts of the game engine; The game engine did much of the heavy lifting and kept the game in the development zone. Writing in a familiar codebase of javascript, it was easier to produce. We did run into a few hic-cups and nuances in appcelerator and platino that the team had to work through.
+Here are some of the notable ways we used parts of the game engine; The game engine did much of the heavy lifting and kept the game in the development zone. Writing in a familiar codebase of javascript, it was easier to produce. We did run into a few hic-cups and nuances in **Appcelerator** and **Platino** that the team had to work through.
 
 
 Sprite Collisions
 ---
-- The sprites along with being really easy to to import also inherited collision. This made it easy to do create listeners and events for when vehicles hit pedestrians or when the eggs hit the cars.
+- The sprites along with being really easy to import also inherited collision. This made it easy to do create listeners and events for when vehicles hit pedestrians or when the eggs hit the cars.
 
 Camera Pan
 ---
-- The beginning animation was created using a sprite image and a pan. Super easy to create an pseudo animated home screen. In addition, both of the home and end screens were created by sprites that we hoped to create into animated span screens.
+- The beginning animation was created using a sprite image and a pan. Super easy to create a pseudo-animated home screen. In addition, both of the home and end screens were created by sprites that we hoped to create animated span screens.
 
 
 Transforms
@@ -115,8 +115,8 @@ Transforms
 
 Platino
 -----
-- The animations of Grandma tossing the eggs were created using transform along with Platino constants. This made it easy for to say, 	  go from point A toB but in a curved way or in a zig zag.
-- Generally platino being built off of appcelerator opened up a lot common tasks in the framework.In our app we were able to render full html pages for about and planned to create a UI for settings using titanium UI windows.
+- The animations of Grandma tossing the eggs were created using transform along with Platino constants. This made it easy for to say,       go from point A toB but in a curved way or in a zig zag.
+- Generally, **Platino** being built off of **Appcelerator** opened up a lot of common tasks in the framework.In our app, we were able to render full HTML pages for about and planned to create a UI for settings using titanium UI windows.
 
 
 

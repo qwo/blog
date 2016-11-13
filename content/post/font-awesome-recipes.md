@@ -6,6 +6,8 @@ date ="2014-02-12T23:51:49"
 Quick Recipes for Making Composed Font awesome icons
 ---
 
+Some recipes I put together to make composed font awesome icons.
+
 Checkmark
 ```html
 <span class="fa-stack fa-lg">
