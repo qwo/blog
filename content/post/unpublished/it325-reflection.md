@@ -1,9 +1,10 @@
 +++
 title = "How we should teach Web in School"
 date = "2014-04-20T01:26:54"
+draft = true
 +++
 
-Final notes from a web course
+Final notes from a course on web
 ----
 
 Through the course I learned the value of design for implementing web projects. As working for a developer who specialized in the backend, design was often an after thought to functionality. When designing a certain site for a client or for a product, it is important to start with the design first, instead of working backwards. This hopefully can help drive development and make the user experience flow better.
