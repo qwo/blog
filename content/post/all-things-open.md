@@ -19,7 +19,7 @@ Early-Registration. Over 2000+ Attendees for two days.
 
 <br/>
 
-My itinerary
+My Itinerary
 ---
 I ended up going with focus on data science and analysis. My background is mostly in full-stack web so this was a refreshing change of pace. I also got to talk a bunch of companies that are defining how you can create companies around open source projects and meet diverse <developers class=""></developers>
 
