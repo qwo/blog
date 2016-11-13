@@ -1,7 +1,7 @@
 +++
 title = "Dont lock yourself out on the Play Store"
 "date" = "2014-02-18T09:27:03"
-
+draft = true
 +++
 
  Tips when producing your app on the play store

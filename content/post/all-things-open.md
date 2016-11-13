@@ -52,4 +52,4 @@ Scott's talk was great and had everyone laughing. The rest of the day I continue
 Conclusion 
 ---
 Had an amazing time, would go again. It will be on a Sunday, Monday, Tuesday next year in October.
-Check it out in 2017
+Check it out in 2017.

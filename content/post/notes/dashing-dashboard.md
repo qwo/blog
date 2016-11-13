@@ -1,6 +1,7 @@
 +++
 title="Dashing Dashboard"
 date="2014-02-27T21:54:16"
+draft = true
 +++
 
 Presentation given at Dashing.js at 757.rb why we should care about visual dasboards

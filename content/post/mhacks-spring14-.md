@@ -25,7 +25,7 @@ The food ranged from subpar to delicious. Agreeably the food was crazy delicious
 
 MirrorAPI is making me mad
 ---------
-Midway through Saturday Morning we got rate limited by the Mirror API. It took a full half for me to each see it. One of the Evangelist @ws suggested Mirror either was down or we were being rate limited. Either way spinning new instances of the mirror api didn't solve the issue.
+Midway through Saturday Morning we got rate limited by the Mirror API. It took a full half-hour for me to each see it. One of the Evangelist @ws suggested Mirror either was down or we were being rate limited. Either way spinning new instances of the mirror api didn't solve the issue.
 
 In the end @Mmming one of the glass reps increased our rate limit and whitelisted the IP. For future reference one of the tips is to actually clear your client authorization also beforehand.
 

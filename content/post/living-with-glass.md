@@ -3,7 +3,9 @@ title = "Google Glass: First Impressions"
 date = "2014-01-11T16:08:49"
 +++
 
-Wearing glass in the wild is an interesting experience. This blog reflecting on a developer who returned glass after 30 days http://blog.rememberlenny.com/blog/2014/01/05/i-return-ed-my-google-glass-after-30-days/ struck
+Wearing glass in the wild is a very social experience. Often it draws a few stares and people are curious, is it on or is it off? What does it do.
+
+This blog reflecting on a developer who returned glass after 30 days http://blog.rememberlenny.com/blog/2014/01/05/i-return-ed-my-google-glass-after-30-days/ struck
 
 
 
@@ -15,4 +17,4 @@ Gestures - the gestures upon investigating the SDK are familiar to many hardware
 
 Media - with 12 gigs it has ample storage for videos,music and pictures However doing any of the first activities will kill the batteries and attribute to a pour experience.
 
-View screen - the view screen takes up no more thanapproximately  20% of your vision space of your right eye. If you position it correctly, i'm wagering you will forget you're even wearing it. I can conjecture your height plays a major factor, as a taller person (6'2) my height is slightly above the average. Therefore speaking to people or any activity usually is on the bottom peripheral of my vision.
+View screen - the view screen takes up no more than approximately  20% of your vision space of your right eye. If you position it correctly, i'm wagering you will forget you're even wearing it. I can conjecture your height plays a major factor, as a taller person (6'0) my height is slightly above the average. Therefore speaking to people or any activity usually is on the bottom peripheral of my vision.

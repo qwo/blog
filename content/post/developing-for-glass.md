@@ -1,12 +1,12 @@
 +++
-title = "What a Glass App Should Be"
+title = "Developing for Google Glass"
 date = "2014-01-16T15:25:17"
 +++
 
 
 
 Some caveats to a good glass app
-Inspired by the good principals of a web app
+Inspired by the good principals of a good web app.
 
 
 + follows similar style and UX principals in other apps

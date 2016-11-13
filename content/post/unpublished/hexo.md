@@ -1,6 +1,7 @@
 +++
 title = "Debugging Hexo"
 date = "2014-01-15T01:07:22"
+draft = true
 +++
 
 I swapped by blog over to Hexo. Here are some issues I ran across

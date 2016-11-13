@@ -2,6 +2,7 @@
 title = "Semester Spring 2014"
 
 date = "2014-01-14T11:05:17"
+draft = true
 +++
 
 My schedule for 2014 and into a short commentary about it.

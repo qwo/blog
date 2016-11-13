@@ -1,6 +1,7 @@
 +++
 title = "Reads for Software Developers"
 date = "2014-02-27T15:25:58"
+draft = true
 +++
 
 Shortlist of TODOs and recommendations for softare reads.
