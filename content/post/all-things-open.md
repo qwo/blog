@@ -64,7 +64,7 @@ Conclusion
 ![BoxCar](/allthingsopen/all-things-open-2.jpg)
 Arcades and Brews hosted by PayPal. [BoxCar Barcade](https://theboxcarbar.com/)
 
-The event went by very quickly and I had an amazing time. I would definitely go again. The organizing team did a wonderful job and went all out to build a great conference. Next  It will be on a Sunday, Monday, Tuesday next year in will be on October 22-24, 2017.
+The event went by very quickly and I had an amazing time. I would definitely go again. The organizing team did a wonderful job and went all out to build a great conference. Next  It will be on a Sunday, Monday, Tuesday next year and will be on October 22-24, 2017.
 
 
 
