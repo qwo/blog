@@ -5,17 +5,19 @@ date = "2016-11-03T17:57:26-04:00"
 +++
 
 ## Raleigh
-All Things Open is an amazing conference in its fourth year running hosted in Raleigh North Carolina. It's a conference that celebrates open source and the community behind it. It's two days of amazing learning, networking, and fun times with fellow developers.
+All Things Open is an amazing conference in its fourth year running hosted in Raleigh North Carolina. It's a conference that celebrates open source and the community behind it. Two days of pure learning, networking and fun times with fellow developers.
 
 ![Registration Desk](/allthingsopen/all-things-open.jpg)
 Early-Registration. Over 2000+ Attendees for two days.
 
-## Why you should go
+<br/>
+
+## You Should Go
 - **Cheap Price:** for $199 this was a very inexpensive conference. The conference hotel for *one day* cost more than two days of tickets including great after hours celebrations on three days.
 - **Celebrates Open Source:** the breadth and diversity of open source contributors is amazing. Spending a few days getting to talk to open source contributors and companies let's you know what everyones interested in and where the industry is going.
 - **Diversity of Topics:** There were 8 different tracks you could mix or match. If you were interested in tech, there was something there for you.
 
-
+<br/>
 
 My itinerary
 ---
@@ -42,6 +44,8 @@ Had a great diversity of talks below. For my ticket I decided to volunteer and s
     - IoT: Myth's and Realities: Timm McShanne
 - NC: RIOT Demo Night. Tech and maker products.
 
+<br/>
+
 Thursday
 ---
 Scott's talk was great and had everyone laughing. The rest of the day I continued doing more talks about data and distributed systems. It was a packed house to listen to Mitchell Hashimoto talk, it was very insighful about the challneges of building and maintaining a secure system. I also enjoyed Alex Meadow's down to earth talk about open source and business intelligence.
@@ -53,7 +57,7 @@ Scott's talk was great and had everyone laughing. The rest of the day I continue
 - Building Next Generate Data Warehouses: Alex Meadows
 - OMGWTFAMQP: Mark Lavin
 
-    <br/>
+<br/>
 
 Conclusion
 ===
