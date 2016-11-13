@@ -29,7 +29,7 @@ We spun out into workshops which were graciously put on by the facilitators and 
 
 
 - Build your own programming language by Marcio. [His Presentation later was posted on HN](https://github.com/marciok/Mu)
-- Code Dojos led by Miles: Workshop where you solve a small problem, either pairing or solo and share solutions after.
+- Code Dojos led by Myles: Workshop where you solve a small problem, either pairing or solo and share solutions after.
 - Machine Learning Overview by Mike, Nathan and Marko:  Gave an overview of the vast field of Machine Learning.
 
 <br/>
