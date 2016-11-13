@@ -2,6 +2,7 @@
 title = "Joining Recurse Center"
 description = ""
 date = "2016-11-01T16:31:55-04:00"
+tags = ["Recurse"]
 +++
 
 New York City for the Winter
