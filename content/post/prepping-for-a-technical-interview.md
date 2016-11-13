@@ -31,7 +31,7 @@ Videos
 ---
 - Open Source CourseWare MIT http://www.youtube.com/user/MIT
 - Harvard CS50 http://www.youtube.com/user/cs50tv
-- http://cs.stanford.edu/people/eroberts/courses/cs106b/chapters/13-trees.pdf
+- [Tree's sheet from Stanford](http://cs.stanford.edu/people/eroberts/courses/cs106b/chapters/13-trees.pdf)
 
 <br/>
 
