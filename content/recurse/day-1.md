@@ -4,8 +4,6 @@ description = ""
 date = "2016-11-08T14:45:38-05:00"
 tags = ["Recurse"]
 +++
-**--ACTIVE DRAFT--**
-===
 
 Day one of RC is widely different from every other day. Its more structured and is full of presentations and  socializing. This is my personal account from my day one experience, your experience may vary. They are always changing and aiming to improve the first day experience.
 
@@ -13,10 +11,6 @@ Day one of RC is widely different from every other day. Its more structured and 
 Getting to NYC
 ---
 I took the bus up from Norfolk, Virginia to New York Saturday night. I spent most of Sunday with family. On Monday morning, I began my new commute from Chinatown to SoHo to the `455 Broadway space`. On the first day, its recommended you show up at 10:00am. I explored the surrounding parts of Little Italy and Chinatown to kill some time. I settled down and had some good coffee at [Happy Bones](http://happybonesnyc.com/) and briefly did some work to calm my nerves.
-
-{{<figure src="https://lh3.googleusercontent.com/49AIpmaMOIbA9d5Uy75vc5yq2P0hcAyL6t8ExajRPJGXJpDege8LTj7OaLM5VtastnCG3Xwbg_UZrWCAFkyhREur_yIzw_hTtNfRuyJTKHQTUld4XgVLsrXHU2qBQI6Bt5eiY_GMzF_U4Gzjpi-wx38a4bqRimb8jBrjnMlHSjKcF_sww9CUPqWrWJ3YPWUZFQa6rf2mFZXXan3njdZ_RWKdREM2iwnabMJygzUu4kmzAzk3CLuIGGP9l0RnKBMMYgJ-Mald0NT6hVxr1u5goYa-dKphUwq1YoT2sNBMD74_RTlaKzn2nYZrlpP4jE9oC1TAAkBNyxch5ZO-Zo4TrbX6c-YfjvhNU6xI64Pf3AWF2gV5JLao6L-GoiQOtI8XFgnvAV30P4BIEKLvbcr9Mqy6k735h9kwpVL5O9vrRHMV5Ak5ca8-U-OpRTfB0p9t2YPU8pCkDuqVEJQokMn4HApkMGJpmCq-A3JI8odRhapYLwwWbaAxqPmjkoebXpc0743dLjs2AZzYT-5gR3B8mWdlaXjdFeKDeYpmTaX1lGuqqFcmGM23wAeu2qaEBgks6mkhPMFoRD-jHFN-svbRhaUItn_DEny8KCwx5sKS6EMiC08H1Q=w1014-h1352-no" >}}
-
-{{<figure src="https://lh3.googleusercontent.com/lkIfpf7TPSpZON8ygGcZSTlcBreso2ZoORAKGm3xRtIHF0t_zHrwynPse3qJLyb9e1xEk--uKDs=w1808-h1264-no" >}}
 
 {{<figure src="https://lh3.googleusercontent.com/4y34-UiTZsU45rzAS-PTBD6d3VtIgGEh6RKm-Ie0coO-M4k8WXmuWTA5NQJ-84aogAFPxdPOKCHtoiAtmUcv6QsEwFWIkhY2gcN3padRRTet1HZ2sDONpivMFWCyjG7_XwOQSPkksG0qHRBMDDGpI5oE6m5dxMtvIr6hDIQ5o1ZYtJ7I8IDqMQlJSgcuY2UPdQ59F1xftF1Ky-tS0Rd50nBfPi_HhkunvN3nKPnZ7T1weobgsQ8M2MhjxQoUtGagKC4zUDKHeThZohUC9r3CtwUMwZT5buiT2YAd2RWLwQvI3DKEd2VXo9a0XBJ_q81wWTOmAxXAsNbRFcAbfTGhSzta5bCcOCeADsxD_LOZlBhfdlj91BJEUkJAoYHM1Fnf3A0xL3iI0z18tkkbGpvU36RJn3XM9Qy49cpIbej8SiuydDNqCdGD-pR3ayxOfmvZ8VPFTTV7d_zsk5X6cm-CquMWkkt9SEDx7IM9WahCyn8SfBnzVDaWHAsOzp0XjGhvdH7vmX5jb5QJz87hmwIfsGO6M5vpOdBYItCSBW4l601HDVgwPjhw-ot-c1S7xQfvHt2AsNh-WjgFaGt60e40JbuvrgjvUdgkJzh_gtwTUyeoQIoMeA=w1808-h1264-no" title="Caffeinating">}}
 
@@ -35,7 +29,7 @@ We spun out into workshops which were graciously put on by the facilitators and 
 - Code Dojos led by Myles: Workshop where you solve a small problem, either pairing or solo and share solutions after.
 - Machine Learning Overview by Mike, Nathan and Marko:  Gave an overview of the vast field of Machine Learning.
 
-{{<figure src="https://lh3.googleusercontent.com/SbB4MtfQVaWQMJm3VRntFPZUsGXZbMPULJ2A_CfqaOXUVzVo30DLMTjr_C-flWK6V9ddOZ_PuD0BbFZliE8Ay9HR3p4FJ5K4v4aZaDwT5pv87Jvua3MiBt7a6jbfzQhDEHMWsIk-sN-vjvrbjGYuXLGPi_gYsM3ki_Mb7tjO-dkunEXe5wyepwXut6NMqZRpextkA4YSKoDGm2-pkj85w9X2ZrCXs9PCuXY3qSVta0YR5r-IeKkfFAFy-gOsZHkCrSLINkNUdziMmlH9QF9NCsgjxaqzpa8Qdhl1dLHSiuM_fcIxRUfv87YM5gvW_jRmMshmRJlN_q3if3OgsBVo43-GnBdnt9OAspQKqcleuh7jWPeyagElria0pB7bpG-BCz0CyeI9h6TgQLg-yNCSf_WD2ti27azz15cspuDwp4Us3nl-544kN3Xs3YFmhp8uwTUnA4OHcaZHcQM0ZkB8sUQYepmTngqIPWlvf-jwmaIUha_4t7XLDOInNsS_5LyAAL8pDKUCPx2vG9ObbRslqpKvuQS5gklmrOdVQKyAECifB_NSKJ9c298LecVn4Gz_1OAgEI_Shwxz6EZK0TfQPwuvlQR9YJsiFC3o8sxiUZAqWG7auQ=w1686-h1264-no" title="Building a PL in Swift">}}
+{{<figure src="https://lh3.googleusercontent.com/SbB4MtfQVaWQMJm3VRntFPZUsGXZbMPULJ2A_CfqaOXUVzVo30DLMTjr_C-flWK6V9ddOZ_PuD0BbFZliE8Ay9HR3p4FJ5K4v4aZaDwT5pv87Jvua3MiBt7a6jbfzQhDEHMWsIk-sN-vjvrbjGYuXLGPi_gYsM3ki_Mb7tjO-dkunEXe5wyepwXut6NMqZRpextkA4YSKoDGm2-pkj85w9X2ZrCXs9PCuXY3qSVta0YR5r-IeKkfFAFy-gOsZHkCrSLINkNUdziMmlH9QF9NCsgjxaqzpa8Qdhl1dLHSiuM_fcIxRUfv87YM5gvW_jRmMshmRJlN_q3if3OgsBVo43-GnBdnt9OAspQKqcleuh7jWPeyagElria0pB7bpG-BCz0CyeI9h6TgQLg-yNCSf_WD2ti27azz15cspuDwp4Us3nl-544kN3Xs3YFmhp8uwTUnA4OHcaZHcQM0ZkB8sUQYepmTngqIPWlvf-jwmaIUha_4t7XLDOInNsS_5LyAAL8pDKUCPx2vG9ObbRslqpKvuQS5gklmrOdVQKyAECifB_NSKJ9c298LecVn4Gz_1OAgEI_Shwxz6EZK0TfQPwuvlQR9YJsiFC3o8sxiUZAqWG7auQ=w1686-h1264-no" title="Building a Programming Language using Swift">}}
 <br/>
 
 Presentations
