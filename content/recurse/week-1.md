@@ -80,4 +80,4 @@ Conclusion
 ---
 Many of these practices evolved during my first week. I abandoned Slack after I easily found myself distracted by different channels when I went to take notes or save links. After I noticed a disparate amount of time I spent sussing out the right idea, I picked ideas from the board and attempted to spend more time Programming. 
 
-I'm always curious to know what techniques help people pick and work on ideas that matter to them and their process. Share below if any of this works for you or specific processed that help you.  I'll probably change up a few of these practices and continue evolving them over time. 
+I'm always curious to know what techniques and process help people work on ideas that matter to them most effectively. Share below if any of this works for you or if theres a specific process that helps you. 
