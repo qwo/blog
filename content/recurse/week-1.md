@@ -2,7 +2,7 @@
 +++
 title = "Week 1: Staying On Track"
 description = ""
-date = "2016-11-08T14:48:38-05:00"
+date = "2016-11-20T14:48:38-05:00"
 tags = ["Recurse"]
 +++
 
