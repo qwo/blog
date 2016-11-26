@@ -23,13 +23,18 @@ Putting my ideas down
 ---
 For organizing ideas Trello made it easy to organize my ideas setting a column for each stage of an idea:
 
-- `Ehh ideas`
-- `Ice Box`
-- `Ideas`
-- `In Progress`
-- `Done` 
-
-Each idea starts as a card under the column `Ideas`. Every time I have a new idea, I try to write down a description of what inspired the idea and some bullet points to execute it. Depending on mood.  If I feel like I'm not going to work on it in the immediate future I shift it to `Ice Box`. If I fall out of love with the idea, I shift it down to `Ehh Ideas`. 
+- `Kelvin`: Ideas I no longer have interest in pursuing.
+<br/> 
+- `Ice Box`: Ideas saved to be revisted later.
+<br/>
+- `Ideas`: Starting point.
+<br/>
+- `In Progress`: Currently working on it! 
+<br/>
+- `Done`: Got to a satisfactory point.
+<br/>
+<br/>
+Each idea starts as a card under the column `Ideas`. Every time I have a new idea, I try to write down a description of what inspired the idea and some bullet points to execute it. If I feel like I'm not going to work on it in the immediate future I shift it to `Ice Box`. If I fall out of love with the idea or have zero interest it is move to `Kelvin`. 
 
 When I start on one of the ideas, I shift it over to `In Progress`. While working on the idea, I put down more resources and blockers. What data sets were helpful during this project? What problems did I run into that will block the execution of the idea? Eventually, the ideas progress to `Done` but sometimes they move back to `Ice Box` to be revisited.
 
