@@ -38,6 +38,9 @@ Each idea starts as a card under the column `Ideas`. Every time I have a new ide
 
 When I start on one of the ideas, I shift it over to `In Progress`. While working on the idea, I put down more resources and blockers. What data sets were helpful during this project? What problems did I run into that will block the execution of the idea? Eventually, the ideas progress to `Done` but sometimes they move back to `Ice Box` to be revisited.
 
+![recurse](/recurse/hello-world.jpg)
+_What the list started as, many ideas are in Kelvin now_
+
 
 Taking Notes 
 ---
@@ -51,14 +54,18 @@ Maintaining Links
 ---  
 Slack was useful for organizing and annotating links. Changing from Slack for note keeping, I had to look for a better solution to maintaining interesting links. Google Keep was a perfect stand-in, having it tied to your Google account made it cross platform and with useful App and Chrome Extension, it is frictionless.
 
+![Google Keep](https://lh3.googleusercontent.com/ayER1VirrEg8Mj45iIurulcy9qZcvhVaCQT7pJOdn_eXxViam4BpP2Ych-4Kt4dmGxGzVA-MdRXdKB4oJ-hwMTvSMt9mO4kNdgn1J8zMDgU49yH5MzXDN0xDFpUzXHWRzj7NmW8vREvL7qIUoE0yQinxwmIhzy_wR8MlDqalovLpQhjHVTuBYgvMVPO1UaxjLccxyw4R4wULJY0rrSiRNev1mtFz_ON2qcsnIzRN4FeQUgkyHkWbIGlcOO1-OJkd9rEwrb-cz8ie944w_xe6Aiuly1lI-rFHpE3V_7xQITSQuXPL_hi_5PWPKbP_1rx4UV70XXSVeLMvZoKJqjXwZ73rAf4D0BhAUbPvBapFem7OSBmPiO08smzxlx-4-L50vHyY9D6X0onru-3c5WPqF261bLep7jnNG1WaWOMX2-ALtiaCBzhVLXackl5J3ZmiOO4TZ7gPNgWk267Cabbd8g1fJ34KwhpxU5uLjy0m6J8CajfaRcXmdh0kII22SZ5j47mcHbR-gu80dJ6AyzvPBbWgL9cQ4UhYwD8Aq83GAn3qBAM8vWTs50anV4lLX0gldXbG6EwM5Yd5MDu0yDvrySglmQzwHN2CM2TJ-blN9wDjDRtN8Q=w961-h548-no)
+_Link Mood Board_
+
 Google Keep makes it easy to put together an idea board for saving and reflecting on cool links that other Recursers shared. It also helps declutter the bookmark toolbar and the need for syncing bookmarks across browsers and devices.
 
 
 Managing Time
 ---
-Every day I strive to arrive early at the space and leave late. At the end of the day, I want to be able to reflect on what I spent my time on and more effectively tackle it the next day. I use a time tracking tool called [Harvest](https://harvestapp.com) to manage my time into various categories. Traditionally Harvest is used to track time to bill clients but it has a great free tier.
+Every day I strive to arrive early at the space and leave late. At the end of the day, I want to be able to reflect on what I spent my time on and more effectively tackle it the next day. I use a time tracking tool called [Harvest](https://harvestapp.com) to manage my time into various categories.
 
 **Categories**
+<br/>
 - `Events`: Event's held in the RC space.
 <br/>
 - `Food`: We all have to eat sometimes. Tracking long and short lunches.
@@ -75,6 +82,9 @@ Every day I strive to arrive early at the space and leave late. At the end of th
 <br/>
 <br/>
 In addition to tracking time in Harvest, I keep myself on track by trying to timebox tasks using Pomodoro sessions. It's hard to do meaningful code based work using 25/5 sessions so I changed to 55/5 upon a good recommendation. Although at the aim of the sprints are to finish the task endeavored upon, interruptions happen 
+
+![Harvest](https://lh3.googleusercontent.com/im1xvZsP_ZiCrukV4mZhCqntGBMuTzu0w-JPCt5G7cROk0RB6XaZ0-BtdMVg59zfg6ghpofvAJI=w494-h366-no)
+_Week Two at the Recurse Center_
 
 Conclusion
 ---
