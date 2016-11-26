@@ -1,5 +1,5 @@
 +++
-title = "Day One"
+title = "Day One: Orientation"
 description = ""
 date = "2016-11-08T14:45:38-05:00"
 tags = ["Recurse"]
