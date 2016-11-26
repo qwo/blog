@@ -8,11 +8,11 @@ tags = ["Recurse"]
 
 Settling In 
 ===
-I wrote a [separate post]((/recurse/day-1)) detailing my Day One experience. Coming into Recurse I aimed to get into a routine and continue it throughout the twelve weeks. I read the community wikipedia and all the accounts I could find online about how I could make the most out of my time at the center.  
+Each week I hope to go deeper and highlight something I'm working on at Recurse. Coming into Recurse I aimed to get into a routine and continue it throughout the twelve weeks. I read the community wikipedia and all the accounts I could find online about how I could make the most out of my time at the center.  
 
 I was committed to being reflective and setting up mechanisms to keep myself on track. I joined 33 other Recursers from diverse backgrounds but we all shared the goal of becoming better programmers.
 
-In this entry, I wanted to share a few of the strategies I found useful to make myself more accountable during my time at Recurse.
+In this entry, I wanted to share a few of the strategies I found useful to make myself more accountable during my time at Recurse. To find more about the first day, I wrote a [separate post]((/recurse/day-1)) detailing my Day One experience. 
 
 
 Getting Organized
@@ -38,7 +38,8 @@ Each idea starts as a card under the column `Ideas`. Every time I have a new ide
 
 When I start on one of the ideas, I shift it over to `In Progress`. While working on the idea, I put down more resources and blockers. What data sets were helpful during this project? What problems did I run into that will block the execution of the idea? Eventually, the ideas progress to `Done` but sometimes they move back to `Ice Box` to be revisited.
 
-![recurse](/recurse/hello-world.jpg)
+<!--![recurse](/recurse/hello-world.jpg)-->
+![Trelloboard](https://lh3.googleusercontent.com/PAdT-rZCNpvF1lMbHKbtjhwB_JK2mp26fvJkHmvt2EMPRfrmkc_-bDk8QyEqrQ3HKSk-1WzD258N_AExEgNa_EOJtAlICMDsNUnrwBQ75HHxasUtvgQOM5ZRXMZY5p7urm5hoPCRqW46zsDaSvVmTsZuiCRF6DVuv0WbW5pzPbOgGWIAL1Ss9kt4U-x9zp9NiLthNHGDqHRqJ5pb9p_qhw-G9qnbgs5v2aA5dfJwcLOs-GMHfh41osp82zHnCnp1Mi7kvSCqYSzatPTGaQs8ooQ3LikhsRrt8gScykeYmOL8YrCSjulcbhUYRzudNbJmSANdG9lD8o7ejzDr7hZFEBf-5_RMY4cUdTMZ3eg1KzDyaq_NLp-9Jm7Z-7XoHOxuzd7yLdnyu6vbUVvbAbSX4E1qjZ6zOm_zeeyiSEJ0TZJM91gn6-fZ4jUrtJ59kr1QtgMsKzeC1JYgTmXvQFp-JAJUeAanYBUgUsASYts2BuhWVm1DSvS2_j3X844ZL8glKQEZjKUEw2sgiKbKsRxxqgVLURBfCs1kgPAHDfOoSaNmcSRyKrU3t0WYXk4WyO717UQZI889sWUa-wsp7UJnESDJiZxkFuobz6NBnEyXgEdgrnx7rQ=w841-h790-no)
 _What the list started as, many ideas are in Kelvin now_
 
 
