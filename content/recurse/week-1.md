@@ -1,10 +1,12 @@
 
 +++
-title = "Week 1: Staying On Track"
+title = "RC 1: Staying On Track"
 description = ""
 date = "2016-11-20T14:48:38-05:00"
 tags = ["Recurse"]
 +++
+
+*Note: The title was renamed to RC:1 from Week1 to better reflect these entries as a series but not by week*
 
 Settling In 
 ===
