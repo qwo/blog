@@ -5,7 +5,7 @@ title = "Chromecast+TTS = Party: PA.js "
 tags = ['hack']
 +++
 
-I put this together in an afternoon hack session and was planning to extend it and clean up the code. However, its been months and the holidays are rolling around and it's yet to be published! I wanted to put out a small writeup how to harness your home Chromecasts for home automation, scripting, and fun.
+I put this together in an afternoon hack session and was planning to extend it and clean up the code. However, its been months and the holidays are rolling around and it's yet to be published! I wanted to put out a small writeup how to harness your Chromecasts for home automation, scripting, and fun.
 
 Back at my [previous job](https://thisisgrow.com), we had installed Chromecasts throughout the building hooked up to speakers and TVs. We used them during social functions to play music throughout the building and the deck. I've always been a fan of the Chromecast since the initial announcement and still own my v1. I was familiar with the network model how Chromecasts use [MultiCast for service discovery](http://www.dns-sd.org/). This is how all your wifi devices on the same router are able to see each other. I thought it would be really cool to broadcast announcements throughout the building.
 
