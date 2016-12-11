@@ -1,5 +1,5 @@
 +++
-title = "RC 3: Applying to Recurse"
+title = "RC 3: Applying to the Recurse Center"
 description = ""
 date = "2016-12-11T16:50:46-04:00"
 tags = ["recurse"]
