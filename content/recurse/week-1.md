@@ -1,6 +1,6 @@
 
 +++
-title = "RC 2: Staying On Track"
+title = "RC 2: Organizing Your Ideas"
 description = ""
 date = "2016-11-20T14:48:38-05:00"
 tags = ["recurse"]
