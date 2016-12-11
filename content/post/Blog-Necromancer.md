@@ -7,7 +7,7 @@ title = "Blog Necromancer"
 Pardon the Cobwebs
 ---
 
-It's only fitting that on Halloween I raise the dead. When I first started out developing, I was encouraged to write down more of my day to day insight so I could share and reflect. I started with  [Jekyll] (https://jekyllrb.com/) originally for my blog. I was really proud of it but after a while and my lack of using Ruby on any of my system I gave it up.
+It's only fitting that we raise the dead on Halloween. When I first started out developing, I was encouraged to write down more of my day to day insight so I could share and reflect. I started with  [Jekyll] (https://jekyllrb.com/) originally for my blog. I was really proud of it but after a while and my lack of using Ruby on any of my system I gave it up.
 
 I migrated later on to [Hexo](https://hexo.io), a Node based markdown editor that was _fast_ and had some beautiful templates. It also migrated 1-1 for the original Jekyll blog. I started getting into a blogging frenzy, but often it was written the notes down now, and come back later to clean it up. (Of course, I never came back).
 
