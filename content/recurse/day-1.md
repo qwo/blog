@@ -1,9 +1,11 @@
 +++
-title = "Day One: Orientation"
+title = "RC1: Orientation"
 description = ""
 date = "2016-11-08T14:45:38-05:00"
-tags = ["Recurse"]
+tags = ["recurse"]
 +++
+
+*Note: The title was renamed to RC:1 from Day1 to better reflect these entries as a series but not by week*
 
 Day one of RC is widely different from every other day. Its more structured and is full of presentations and  socializing. This is my personal account from my day one experience, your experience may vary. They are always changing and aiming to improve the first day experience.
 
