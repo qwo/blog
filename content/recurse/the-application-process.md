@@ -5,14 +5,6 @@ date = "2016-12-11T16:50:46-04:00"
 tags = ["recurse"]
 +++
 
-
-
-```
-# ~Active Draft Advisory~
-# The content may get refined and elaborated but this is a final rough draft. To get more content out the door, I'm openly publishing more of my blogs and going back to revise from feedback.
-```
-
-
 Notes from past Recursers on applying to recurse helped me navigate the process and keep my sanity. [John Hergenroeder's](http://dev.jdherg.com/posts/2015/07/20/the-recurse-center-a-qa-for-past-me/) was especially insightful so I hope this can do the same and add another data point.
 
 High-level timeline
