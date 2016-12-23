@@ -1,7 +1,8 @@
 +++
-date = "2016-12-13T22:13:50-05:00"
+date = "2016-12-21T22:13:50-05:00"
 title = "RC 4: Debugging debugging"
 description = ""
+tags = ["recurse"]
 +++
 
 Debugging is easy, the answer is always _the the last place you look_.
