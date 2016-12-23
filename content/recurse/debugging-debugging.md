@@ -1,5 +1,5 @@
 +++
-date = "2016-12-11T22:13:50-05:00"
+date = "2016-12-13T22:13:50-05:00"
 title = "RC 4: Debugging debugging"
 description = ""
 +++
