@@ -1,7 +1,7 @@
 +++
 title = "Ditching GSuite"
 description = ""
-date = "2016-12-22T16:07:48-05:00"
+date = "2016-12-23T16:07:48-05:00"
 
 +++
 
