@@ -2,6 +2,7 @@
 title = "RC 5: Code && People"
 description = ""
 date = "2016-12-28T15:00:34-05:00"
+tags = ["recurse"]
 +++
 
 Software is more than code, its includes the people and communities that form around them. Code and humans are irrevocably inseparable ([for now...](http://www.nytimes.com/2016/12/14/magazine/the-great-ai-awakening.html)) and while at the Recurse Center we are focused on writing code, building projects, and exploring new concepts it's hard to ignore the people and the human elements in the mix.
