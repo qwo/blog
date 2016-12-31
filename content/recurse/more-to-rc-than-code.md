@@ -13,7 +13,7 @@ instead of the physical space or even projects we work on. To me, RC is a place 
 Winter is coming...
 ---
 
-After [applying and being admitted to the Recurse Center](/recurse/the-application-process), for the Winter 1 batch I soon realized it'd be cold  ~14  weeks in NYC with a city full of strangers. Spanning November to February, that meant spending Thanksgiving, Christmas, New Years and my birthday in mid-January far away from close friends and family. In reality, it's not too bad for me; I have extended family that I'm staying with but for the other dozens of Recursers I can't imagine its as easy.
+After [applying and being admitted to the Recurse Center](/recurse/the-application-process), for the Winter 1 batch I soon realized it'd be a cold  ~14  weeks in NYC with a city full of strangers. Spanning November to February, that meant spending Thanksgiving, Christmas, New Years and my birthday in mid-January far away from close friends and family. In reality, it's not too bad for me; I have extended family that I'm staying with but for the other dozens of Recursers I can't imagine its as easy.
 
 I really appreciate the never ending effort from faculty and fellow Recursers to foster a welcoming environment for great ideas and work to breed. There are faculty organized board game nights, speaker nights, and other-non-code centric events to provide welcome breaks between hours of work on projects. Outside of this, I want to recognize fellow Recursers who also step up to organize, share events and make time to make everyone feel a bit more at home. Putting together informal trips, dinner parties, and get togethers around the holidays highlights that it is a community.
 
