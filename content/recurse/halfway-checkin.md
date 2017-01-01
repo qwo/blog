@@ -122,4 +122,10 @@ Coming into Recurse I wanted to collaborate more with other Recursers on buildin
 
 Been blogging more as a self-reflective mechanism and share my knowledge and experience. But writing is tough and each entry takes hours to produce. I want to practice timeboxing entries while keeping up quality and improving my writing both technical and non-technical.
 
-Ringing in the new year. Looking optimistically at the next few weeks and onward into 2017!
+### Finding a new Job
+
+Will be looking in February for full-time positions! Been a generalist engineer the past few years but want to maybe focus in on a product or service team in my next role. Maybe still doing full stack web or trying out systems or data engineering as a next step.
+
+Ringing in the new year and looking optimistically at the next few weeks and onward into 2017!
+
+Thanks for reading :).
