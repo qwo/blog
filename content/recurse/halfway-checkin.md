@@ -17,11 +17,13 @@ In the past two months,
 
 #### **Harvest** Logged 551 Hours spend on ...
 
-- ~130 hrs(23.5%) Programming; writing code for projects and events.
-- ~225 hrs(39.7%) General: A catch-all for my time at the center; Learning and productive non-code activities.
+- ~130 hrs (23.5%) Programming; writing code for projects and events.
+- ~225 hrs (39.7%) General: A catch-all for my time at the center; Learning and productive non-code activities.
 - ~75 hrs (13.4%) Events and Meeting: Planned schedule events at the space or around
 - ~89 hrs (15.3%) Fun: Trips to museums, parks, and long walks. Blowing off steam on the weekends.
 - ~32 hrs (5.7%)  Food: Had to eat eventually; Indulged in long discussion lunch once in a while.
+
+![Harvest Graph of time here](https://lh3.googleusercontent.com/ROy6UIkDCH8EBo7lXBUvk0fkIopzle_faFJqeMMh4vpj9CYmMaxOrSN1LRgOaHqTfZNOn3FKFpOQ92pgoa8eLoAfysmYocMUyPhlGZoE9pAmYdE9EMydHGET_l3O52J4X2QtgsxmKNusT5H8rcR3dR366CDMHQOoImlGVFnKOE7oZ8Zzr64uMUMjDhhpDgDRdDeTgPpFk5UuVqfTGTwXmopLjReD8JXFtGyEmsv6mpG77xCWJUo0yk4aRy0lBP19zxyXqPwrXwfnapZV9oGbiPS7FFEta5_Hkv3QIIFdAUQ57X5iXuyszpu4n78-PiE-0RxOOqEXSbhnJArCyZTiUCpVPzXjay1YLa3StzNMFCEVQfv2REvP8m9jGHYle7T2RLBXZe1xxSly6mOHexh20pAeBM1ieg2xytl7a5fvOuUXwwymIwAUK0d2KIdvEK-E5Pz_fShz83Y5lXiKodBxO3DvsqkUi1YGTk4TlahXQKS7-OF5ZeRWjuZOULZjDutcE5BPyESgNCjFkTYPzaIw0lUDNdA35UX4eQJw-3TLlzM7ww07uQm17JW0c0dhEmRcDp4XrXn06dC7NB2rGCcz9cl67i-qQQuYzXwwRpavqWVbTCzEbOIjW3AlYPgX4H818vzZdCL1K8Tfn8OAbipR21txly3rydkyBXy13S2NgB8=w560-h362-no)
 
 <br/>
 ####  On **Github** ...
@@ -49,9 +51,9 @@ In the past two months,
 #### On **Google Keep**
 - Saved 300+ Links to index for later shared by Recursers or browsing.
 
-![Harvest Graph of time here]()
-
-### During that time, at Recurse I ...
+<br/>
+<br/>
+## During that time, at Recurse I ...
 - Published 8 Blog Entries
 - Paired and [debugged](/recurse/debugging-debugging) with many many cool Recursers
 - Presented at (2/6) presentation Thursdays
@@ -80,22 +82,31 @@ In the past two months,
    - Brushing up on my Rust and Lua
    - Learning Scheme/Racket for SICP!
 
-!img[Hugging Stranger in the Park ]
 
-### Not without its fun
+![Gotham Go with Brad Fitzpatrick] (https://lh3.googleusercontent.com/x54rVBxuIHiDbPcdCxpOU2yV-J7xtz4Ebnuna1i103y4UD2ZIYDTkcb3DazueT2mffRK6pdxPazJQ9sT9c7UeS5cgZxe5XSWm9M0uZdSD4pZEfoQEdKN3HRyO9wSq5_RKg9xiGas2RZiSvaH4M4OdZRIva67dOsDsEUFYi2SDI0hQWhNOcevpOdXmuMTYdv9dpixb2Wxa7WkiWbOmCmTNdeZWlQDTD7PqWLFcLdhMjnpHsAVIZ49JnXVsS1cOKXsUZsyg_fkv69Xlp_ASJZq4sXmP7osUg9uRMzKw-h8X7hqZfcaouPmkCvj9zJfIJtyZ0fw3VCL8LSwbudAaTm4H7hH2YT_gKWmwtX9liCDJM_SxRfvEj4RpiZ6uK0basVFZsIRZ1d2sf-AsxmkFAla7KLnEeuTN8ml8mOwQpaTuxvGz-fOPXk8LlYEgtNPFcXqL2TmM6GEzmUh54NcJXhTn100jYh3ALc2clQe2BBvrBiwJYysd_KHVq5kLURQvZkzY912dKAqv9teEVgiC8fuYpwM45E-TxrftylKRJHmYIGJ492GSjmfNTEDxxpkJNfHc5yNOAJgDYKeH1p-ynyCaPnLX2JXehFWe6fbu_jgBigjoK4s8CCgBskvp1P_gK0T6do8-CS4Kgk5IL7zffHpsFLLrJkb0l_HqpLrca75bnU=w560-h420-no)
+<div class="caption">_Meeting cool people at a Go Conference_</div>
+
+
+<br/>
+<br/>
+
+### But also lots of fun things...
 - Attended [GothamGo](http://gothamgo.com) Conference 2016
 - Attended [Hack&&Tell 40 @ Blue Apron](https://www.meetup.com/hack-and-tell/events/234721470/)
 - [Hung out with cool JS friends](https://twitter.com/StanZheng/status/808656316143140864) at a Kubernetes Conference After Party
 - Visited a traveling tech and privacy exhibit [Glass Room](https://theglassroomnyc.org)
 - Went to a warehouse exhibit in Redhook called [Pioneer Works](pioneerworks.org)
 - According to Google Maps probably trekked the total length of the manhattan island.
-- Ate the town ... too many delicious places to count.
 - On Google Photos took thousands of photos around New York City.
+- Ate the town ... too many delicious places to count.
 
-!img[Food Plraces]
+![Eating the town](https://lh3.googleusercontent.com/t4iQE1FguHIkIJ5LGXkqphuTmFttUT7SVldM8oGCxxCFhbsGTlQhaYnwq26a6k5zhzFy0B7zUp97ZIbXwaRg_I5hOgsa2StM8Cbbxiw-KWm1VooDUW39Eie36QwTYwCPfjw_FckkoaqG2NNgB_Cgq085kIGdJ-1whKujLz7GN3Ni5vKfuvjXMPDR-tsERxXH8m2hsQ1GuzA_QeyYMJDyLEVndyRSXmUFFK9wKvyEOa0hKZ5CQjboR0uDSke9y3ATsI8miVmmOXp3mURay5qrlqTgypu-3IR_XiGStPgYSJ_UtaZFetOUi6527GtXse4Lw_Medwr80uw4VllLYzr7C7teoUe3HskZl9LXOjZETfhNt-uUFTILQGvPXTxCZz5pVgxTypHLpYQxjbWImduLGyte0hp5stYmvWC8Qxdp1gtGSLoLyn_10sCCaqT1EksgcbP7CS9qGZ7zS7v0yV5sb1aImashVls3cDcslo0fykjRGsRUzImd0EJw8jCF23nMV2R3Ysvsu3eVtbRjl9bMak8mJ96hibXVdqjQ3I1BgVcNf0cO7yea-uCjmM62Z_AQ6kGlL1JuxDIESdadWftCLG79JiDFZOXF-nEcwzZYi1-XLBm-5EOFrkBh8hm9-t6ubcy1oeGU20gnE2YRF7ctRBmeeNakr9orLVrSsYNC03s=w560-h556-no)
+<div class="caption">_Eating all the places around Recurse past, present and future_</div>
 
-For the next six weeks
----
+<br/>
+<br/>
+## For the next six weeks
+
 
 To solidify this as a new years post, I'll lay out my next 6 weeks in Resolution form:
 
@@ -105,11 +116,10 @@ I want to pick back up learning Machine learning and building a small production
  Both [Malcom Gladwell](http://wisdomgroup.com/blog/10000-hours-of-practice/) and [Peter Norvig](http://norvig.com/21-days.html) point that practicing your skill is the only way to increase your expertise in your respective way. Although I spent 130 hrs of my time at Recurse zoned in coding, it only made up about 1/4th of my time there. Finding and cycling through project ideas led to just less code being written. I hope to get it closer to 50% and decrease my general downtime. Aiming to narrow down and focus on specific project ideas
 
 #### Work on a midsized-big project and collaborate on it with others
-Coming into Recurse I wanted to collaborate more with other programmers on building systems together. The best way to learn more about yourself as a developer is FOILing off of other programmers and making cool stuff together.
+Coming into Recurse I wanted to collaborate more with other Recursers on building systems together. The best way to learn more about yourself as a developer is FOILing off of other programmers and building cool stuff together. I've learned an invaluable deal working with other Recursers during my first 6 weeks.
 
 #### Get better at writing
 
-Been blogging more as a self-reflective mechanism and share more knowledge. But writing is tough and each entry takes hours to produce. I want to practice timeboxing while keeping up and improving my writing both technical and nontechnical and continue outputting more writing.
-
+Been blogging more as a self-reflective mechanism and share my knowledge and experience. But writing is tough and each entry takes hours to produce. I want to practice timeboxing entries while keeping up quality and improving my writing both technical and non-technical.
 
 Ringing in the new year. Looking optimistically at the next few weeks and onward into 2017!
