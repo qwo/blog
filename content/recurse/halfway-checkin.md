@@ -61,7 +61,7 @@ In the past two months,
 - Attended (6/6) Presentation Thursdays
 - Attended (5/6) Code Dojos
 - Attended (5/6) Interview Prep Fridays
-- Attended (2/6) Feelings Check-ins
+- Attended (2/6) Feelings Checkins
 - Attended (2/2) Board Game Nights Played many games of [Coup](https://www.amazon.com/Indie-Boards-Cards-COU1IBC-Dystopian/dp/B00GDI4HX4), [CodeNames](https://www.amazon.com/Czech-Games-00031CGE-Codenames/dp/B014Q1XX9S/ref=pd_lpo_21_bs_t_2?_encoding=UTF8&psc=1&refRID=6ATH8DCQKKH1CP8T5ZV2) and far too of [Hanabi](https://www.amazon.com/R-Games-RR-869-Hanabi/dp/B00CYQ9Q76/ref=sr_1_1?s=toys-and-games&ie=UTF8&qid=1483257073&sr=1-1&keywords=hanabi+card+game).
 - Gain wisdom and insight from 3 generous Recurse Residents [Glen](http://glench.com), [Tim](http://web.mit.edu/tabbott/www/) and [Roml](https://twitter.com/r0ml/status/804044505666166784.)
 - Started 8 projects (Yumkovify, Optimus-Primes, RCLI 1/2, gitignore, QDraw, Cronuts, Skillup.in ...)
