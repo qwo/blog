@@ -5,7 +5,7 @@ date = "2017-01-01T15:55:30-05:00"
 tag = ["recurse"]
 +++
 
-My batch is halfway over, and the next portion starts on Tuesday, Jan 3rd in the new year after a week hiatus. There will be ~30 new faces joining and only 6 weeks left of the Recurse Center left. Two months have flown by and so much has been done it's hard to gather in describe so it's easier to quantify in some form of integers and data.
+My time at the Recurse Center is halfway over, and the next portion starts this Tuesday on Jan 3rd in the new year after a week hiatus. There will be ~30 new faces joining and only 6 weeks left of the batch left. Two months have flown by and so much has been done it's hard to gather and describe so I've decided to quantify it integers and data form.
 
 I started my batch originally on November 7th and 55 days have elapsed. During normal RC weeks, I get in the morning in the space around ~8-9am in the morning and leave ~11 pm averaging ideally around a 14 hour work day. I use a few tools to track my time and what I did during my batch detailed [here](/week-1/).
 
