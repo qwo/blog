@@ -351,7 +351,23 @@ thead th,th {
 	white-space: nowrap;
 }
 
+
 img {
+	display:block;
+	margin: auto;
+	max-width: 600px;
+	max-width: 100%;
+	border-radius: 3px;
+}
+
+/* Be more specific to ensure profile images dont get padded but blog entries do*/
+p img {
+   padding: 30px 0 0;
+}
+
+/* center captions */
+.caption em{
+	text-align: center;
 	display:block;
 	margin: auto;
 	max-width: 600px;
