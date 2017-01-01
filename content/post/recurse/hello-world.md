@@ -24,7 +24,7 @@ My favorite example of this is _Google Photos_, I'm can find an old photo of _St
 
 
 ![Street Food] (https://lh3.googleusercontent.com/h0vT2WxcfFycxI_a-S3lAVtmZc10zSU5b32uEU6u7idvRUD3thxciKb-uEQ92N-2d_crQrm5jbmhhi_gosoSVzyLdmWi3f7d2aikPzRDulpFvClY10RXETLRtmgIHr05eaWtUWT9oVWew9L4ocoEegSzo4W623cT1mnVupLfEYzl36mLTh19RS67004_H8tGQKPkJQBjiXrJxb4Qx0gN0Te8r8rkqawKXHICkOy4VvWViy_QnIpE74LrKn_gEfCGUuqK0W_3TC1F1jpoTpHU3uuGnlWtpi6zXXE2GHc2MSBTPSLIXnzpJBTkxvb1VI4mBrLgbXlwCO8TrXBAOn0I2SwlvGTPxIfKPgfqM5nUR3Qs2_OBD8LnZ6kVncV9avgf3xfBjYOUhF3IuU2eRDBT7OFjygXJIc-uHtSPIg5bc4zyCG4bK1LxlXCcXj9H9gGrz_qEHfwrsLQiqqTaLSZ723x2zZk1dgXh1O_jjeVoU-A7PJ41SdveqJYBrEJLApJGjLwJ0_z8bvcJr9E_r82m6UBn9EOng5uZ2xlYNd0KQlYqsaAWHxD2PDpHu3d6UDpy7Qbth0zADPSEkC8WuEu5H1Bx9afmHJ95GE3YnpxWxrbHKsac2Q=w454-h341-no)
-_Street market in Rural China from 10 year ago that I took_
+<span class="caption">_Street market in Rural China from 10 year ago that I took_</span>
 
 
 What I'll be doing
@@ -36,7 +36,7 @@ I've been using Python for a few years now and have done some Scikit-learn and T
 I'm a few weeks into the original [Coursera Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning) but the math bits are challenging. I've also accumulated a list of projects on a trello board that I'll pick through and try to tackle throughout my batch.
 
 ![Trelloboard](https://lh3.googleusercontent.com/PAdT-rZCNpvF1lMbHKbtjhwB_JK2mp26fvJkHmvt2EMPRfrmkc_-bDk8QyEqrQ3HKSk-1WzD258N_AExEgNa_EOJtAlICMDsNUnrwBQ75HHxasUtvgQOM5ZRXMZY5p7urm5hoPCRqW46zsDaSvVmTsZuiCRF6DVuv0WbW5pzPbOgGWIAL1Ss9kt4U-x9zp9NiLthNHGDqHRqJ5pb9p_qhw-G9qnbgs5v2aA5dfJwcLOs-GMHfh41osp82zHnCnp1Mi7kvSCqYSzatPTGaQs8ooQ3LikhsRrt8gScykeYmOL8YrCSjulcbhUYRzudNbJmSANdG9lD8o7ejzDr7hZFEBf-5_RMY4cUdTMZ3eg1KzDyaq_NLp-9Jm7Z-7XoHOxuzd7yLdnyu6vbUVvbAbSX4E1qjZ6zOm_zeeyiSEJ0TZJM91gn6-fZ4jUrtJ59kr1QtgMsKzeC1JYgTmXvQFp-JAJUeAanYBUgUsASYts2BuhWVm1DSvS2_j3X844ZL8glKQEZjKUEw2sgiKbKsRxxqgVLURBfCs1kgPAHDfOoSaNmcSRyKrU3t0WYXk4WyO717UQZI889sWUa-wsp7UJnESDJiZxkFuobz6NBnEyXgEdgrnx7rQ=w841-h790-no)
-_Fleshing out list of project ideas and goals_
+<span class="caption">_Fleshing out list of project ideas and goals_</span>
 
 In Closing
 ---

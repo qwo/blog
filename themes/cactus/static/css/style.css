@@ -357,6 +357,7 @@ img {
 	margin: auto;
 	max-width: 600px;
 	max-width: 100%;
+	max-height: 400px;
 	border-radius: 3px;
 }
 
@@ -364,9 +365,8 @@ img {
 p img {
    padding: 30px 0 0;
 }
-
 /* center captions */
-.caption em{
+.caption{
 	text-align: center;
 	display:block;
 	margin: auto;

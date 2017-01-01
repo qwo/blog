@@ -24,6 +24,7 @@ In the past two months,
 - ~32 hrs (5.7%)  Food: Had to eat eventually; Indulged in long discussion lunch once in a while.
 
 ![Harvest Graph of time here](https://lh3.googleusercontent.com/ROy6UIkDCH8EBo7lXBUvk0fkIopzle_faFJqeMMh4vpj9CYmMaxOrSN1LRgOaHqTfZNOn3FKFpOQ92pgoa8eLoAfysmYocMUyPhlGZoE9pAmYdE9EMydHGET_l3O52J4X2QtgsxmKNusT5H8rcR3dR366CDMHQOoImlGVFnKOE7oZ8Zzr64uMUMjDhhpDgDRdDeTgPpFk5UuVqfTGTwXmopLjReD8JXFtGyEmsv6mpG77xCWJUo0yk4aRy0lBP19zxyXqPwrXwfnapZV9oGbiPS7FFEta5_Hkv3QIIFdAUQ57X5iXuyszpu4n78-PiE-0RxOOqEXSbhnJArCyZTiUCpVPzXjay1YLa3StzNMFCEVQfv2REvP8m9jGHYle7T2RLBXZe1xxSly6mOHexh20pAeBM1ieg2xytl7a5fvOuUXwwymIwAUK0d2KIdvEK-E5Pz_fShz83Y5lXiKodBxO3DvsqkUi1YGTk4TlahXQKS7-OF5ZeRWjuZOULZjDutcE5BPyESgNCjFkTYPzaIw0lUDNdA35UX4eQJw-3TLlzM7ww07uQm17JW0c0dhEmRcDp4XrXn06dC7NB2rGCcz9cl67i-qQQuYzXwwRpavqWVbTCzEbOIjW3AlYPgX4H818vzZdCL1K8Tfn8OAbipR21txly3rydkyBXy13S2NgB8=w560-h362-no)
+<span class="caption">_Cumulative time 2 months in from Harvest_</span>
 
 <br/>
 ####  On **Github** ...

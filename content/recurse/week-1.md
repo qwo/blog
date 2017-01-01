@@ -42,7 +42,7 @@ When I start on one of the ideas, I shift it over to `In Progress`. While workin
 
 <!--![recurse](/recurse/hello-world.jpg)-->
 ![Trelloboard](https://lh3.googleusercontent.com/PAdT-rZCNpvF1lMbHKbtjhwB_JK2mp26fvJkHmvt2EMPRfrmkc_-bDk8QyEqrQ3HKSk-1WzD258N_AExEgNa_EOJtAlICMDsNUnrwBQ75HHxasUtvgQOM5ZRXMZY5p7urm5hoPCRqW46zsDaSvVmTsZuiCRF6DVuv0WbW5pzPbOgGWIAL1Ss9kt4U-x9zp9NiLthNHGDqHRqJ5pb9p_qhw-G9qnbgs5v2aA5dfJwcLOs-GMHfh41osp82zHnCnp1Mi7kvSCqYSzatPTGaQs8ooQ3LikhsRrt8gScykeYmOL8YrCSjulcbhUYRzudNbJmSANdG9lD8o7ejzDr7hZFEBf-5_RMY4cUdTMZ3eg1KzDyaq_NLp-9Jm7Z-7XoHOxuzd7yLdnyu6vbUVvbAbSX4E1qjZ6zOm_zeeyiSEJ0TZJM91gn6-fZ4jUrtJ59kr1QtgMsKzeC1JYgTmXvQFp-JAJUeAanYBUgUsASYts2BuhWVm1DSvS2_j3X844ZL8glKQEZjKUEw2sgiKbKsRxxqgVLURBfCs1kgPAHDfOoSaNmcSRyKrU3t0WYXk4WyO717UQZI889sWUa-wsp7UJnESDJiZxkFuobz6NBnEyXgEdgrnx7rQ=w841-h790-no)
-_What the list started as, many ideas are in Kelvin now_
+<span class="caption">_What the list started as, many ideas are in Kelvin now_</span
 
 
 Taking Notes
@@ -58,7 +58,7 @@ Maintaining Links
 Slack was useful for organizing and annotating links. Changing from Slack for note keeping, I had to look for a better solution to maintaining interesting links. Google Keep was a perfect stand-in, having it tied to your Google account made it cross platform and with useful App and Chrome Extension, it is frictionless.
 
 ![Google Keep](https://lh3.googleusercontent.com/ayER1VirrEg8Mj45iIurulcy9qZcvhVaCQT7pJOdn_eXxViam4BpP2Ych-4Kt4dmGxGzVA-MdRXdKB4oJ-hwMTvSMt9mO4kNdgn1J8zMDgU49yH5MzXDN0xDFpUzXHWRzj7NmW8vREvL7qIUoE0yQinxwmIhzy_wR8MlDqalovLpQhjHVTuBYgvMVPO1UaxjLccxyw4R4wULJY0rrSiRNev1mtFz_ON2qcsnIzRN4FeQUgkyHkWbIGlcOO1-OJkd9rEwrb-cz8ie944w_xe6Aiuly1lI-rFHpE3V_7xQITSQuXPL_hi_5PWPKbP_1rx4UV70XXSVeLMvZoKJqjXwZ73rAf4D0BhAUbPvBapFem7OSBmPiO08smzxlx-4-L50vHyY9D6X0onru-3c5WPqF261bLep7jnNG1WaWOMX2-ALtiaCBzhVLXackl5J3ZmiOO4TZ7gPNgWk267Cabbd8g1fJ34KwhpxU5uLjy0m6J8CajfaRcXmdh0kII22SZ5j47mcHbR-gu80dJ6AyzvPBbWgL9cQ4UhYwD8Aq83GAn3qBAM8vWTs50anV4lLX0gldXbG6EwM5Yd5MDu0yDvrySglmQzwHN2CM2TJ-blN9wDjDRtN8Q=w961-h548-no)
-_Link Mood Board_
+<span class="caption">_Link Mood Board_</span
 
 Google Keep makes it easy to put together an idea board for saving and reflecting on cool links that other Recursers shared. It also helps declutter the bookmark toolbar and the need for syncing bookmarks across browsers and devices.
 
@@ -87,7 +87,7 @@ Every day I strive to arrive early at the space and leave late. At the end of th
 In addition to tracking time in Harvest, I keep myself on track by trying to timebox tasks using Pomodoro sessions. It's hard to do meaningful code based work using 25/5 sessions so I changed to 55/5 upon a good recommendation. Although at the aim of the sprints are to finish the task endeavored upon, interruptions happen
 
 ![Harvest](https://lh3.googleusercontent.com/im1xvZsP_ZiCrukV4mZhCqntGBMuTzu0w-JPCt5G7cROk0RB6XaZ0-BtdMVg59zfg6ghpofvAJI=w494-h366-no)
-_Week Two at the Recurse Center_
+<span class="caption">_Week Two at the Recurse Center_</span>
 
 Conclusion
 ---
