@@ -1,3 +1,4 @@
 ignore
 public
 .DS_STORE
+.vscode
