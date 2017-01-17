@@ -1,5 +1,5 @@
 +++
-title = "RC:7 Chrome Producitity Extensions"
+title = "RC:7 Chrome Productivity Extensions"
 description = ""
 date = "2017-01-07T19:54:06-05:00"
 
