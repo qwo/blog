@@ -1,8 +1,8 @@
 +++
-title = "RC 2^3: Alternative to GSuite: Named domains with Zoho"
+title = "RC 8: Alternative to GSuite: Named domains with Zoho"
 description = ""
 tags = ["recurse"]
-date = "2016-12-23T16:07:48-05:00"
+date = "2017-01-11T11:43:03-05:00"
 
 +++
 
