@@ -1,9 +1,11 @@
 +++
-title = "Ditching GSuite"
+title = "RC 2^3: Alternative to GSuite: Named domains with Zoho"
 description = ""
+tags = ["recurse"]
 date = "2016-12-23T16:07:48-05:00"
 
 +++
+
 
 I've been a long supporter of Google Services; Practically it's wired into our online identity. And the nature of your Google account, it touches everything now. It builds value when it can aggregate all the parts of your identity across their properties. Just check out your [Google MyActivities](https://myactivity.google.com/myactivity), they have information on all your interaction with all of Google's services across your devices. The difficulty of sticking with GSuite means splitting your data between different profiles.
 
