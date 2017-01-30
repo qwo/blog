@@ -1,5 +1,5 @@
 +++
-title = "RC 9: QDraw: Exploring Google's Hidden Character API"
+title = "RC 9: QDraw - Exploring Google's Hidden Character API"
 description = ""
 date = "2017-01-25T11:43:03-05:00"
 tags = ["recurse"]
