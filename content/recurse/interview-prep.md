@@ -33,6 +33,7 @@ It becomes harder for the interviewer to follow if the board is a mess. It will 
 # Practice lots of problems
 There are quite a few sites with good practice problems that have automatic tests.
 Here is a short list:
+
 - [Leetcode](https://leetcode.com)
 - [HackerRank](https://hackerrank.com)
 - [Codewars](https://codewars.com)
