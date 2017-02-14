@@ -42,6 +42,8 @@ Here is a short list:
 
 Picking a language that you are comfortable in is useful. I remember when I first did whiteboarding, I decided to try whiteboarding in C++ when I had mostly been practicing in JavaScript. It ended up becoming very sloppy, mixing syntax between C++ and Java; It's better to whiteboard in a language you're very solid in than one you think the interview would prefer.
 
+Revisiting a data structures course like [Problem Solving with Python Data Structures](interactivepython.org/runestone/static/pythonds/index.html) was an excellent refresher for me to know the internal tradeoffs in Python. Python is a language I've been using professionally but not my first language I learned programming with.
+
 In addition, at minimum would be recommended to know these structures in the language you're familiar with. These recommendations come from the Cracking the Code Interview Sixth Edition.
 
 ![From Cracking the Coing Interview](https://lh3.googleusercontent.com/l5PCpfvRPSN4aSSlwVA_SAzBTqcuC65IUsZPymIcWvZmO9s15kKyojGPv4RRxbcJrxCToELSAPf8uNbNlgHWrIcuepVTcfY-ij8-nG8jaYLJcistZXzrIYFz-j5LzMNExUfowyZHY5UkcPuK1zvFIn-tB0efuLndNGh4-xMRrfTdWHkHhkhMWzxNTVjt7him9uYQDVBWwVUIDtOizuUtnfAFZQNketiX5mpak08X05NLG8ijrpuon261KGjOtopCiChEwv9GOjXkGPugdT_OYI2FmksDJYDshJweCCRWGFfamQJfauxLlnql39l0wzl5vXZ6SLOXaTn6LwEM_Pa1xjDK27WsUcehfHukbhZqzZS4WdiF75QLuI-nMk8458drgcTT7eYY3Ynw1t-LRRfFdKGLkhzkgd_2DDCr2DdPObPMhBucjxChUlqq7RtW80fMMpl_yYQ2cVIyuWxVaIm6jdp-FbOobwNdcLoLE8dtNtDA3tWTMH8Ed345Zm5wJyHU-gnHJfjWeQMOxhD2fg42H_BOWza2tjz_7FnLKsv-CcRI8vWCCK4szwFk3fXPUx_-JlKYKcCvygPopXoKX9EtEDS7135mjzF333H6fEP1WeLOCn0Fx5rKWw=w1400-h996-no)
