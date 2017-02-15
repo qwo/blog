@@ -7,19 +7,20 @@ tags = [ "Recurse"]
 
 During my last week at Recurse, I wanted to apply the knowledge I've gained about Machine Learning into a project. During my batch, I spent a portion of my time immersing myself with the terminology, concepts, and tooling but not as much as I hoped building and applying what I'd learned.
 
-On the final week, I wanted to attempt one of the projects on my back burner for a while. I had been thinking about the data that we generate every day on the multiple of services we utilize. Myself, I spend most of my time on data collection sources(noted (here)[https://blog.stanzheng.com/recurse/week-1/] and (here)[https://blog.stanzheng.com/recurse/halfway-checkin/], chats, taking notes, and email. I was curious if given enough data about myself, would it be plausible to reproduce something that I could have written.
+On the final week, I wanted to attempt one of the projects on my back burner for a while. I had been thinking about the data that we generate every day on the multiple of services we utilize. Myself, I spend most of my time on data collection sources(noted [here](https://blog.stanzheng.com/recurse/week-1/) and [here](https://blog.stanzheng.com/recurse/halfway-checkin/), chats, taking notes, and email. I was curious if given enough data about myself, would it be plausible to reproduce something that I could have written.
 
 
 
 # Collecting the data
 The service I use the most if Facebook Messages and Messenger; I have been on the service for multiple year so surely I must have had thousands of conversations. I also a frequent participant in Slack.
 
-- 70K Facebook Messenger Archive messages of my voice and style using [Chris Roth's Chronist Scraper Methodology](https://github.com/cjroth/chronist/blob/master/lib/facebook.py)
+- 70K Facebook Messenger Archive messages [using Chris Roth's Chronist Scraper Methodology](https://github.com/cjroth/chronist/blob/master/lib/facebook.py)
 - 10K Slack messages focused around conversations about tech and work.
+<br/>
+<br/>
 
 
-
-#LSTM
+# LSTM
 
 Recurrent Neural networks using Long short term memory is better explained by these blogs and experts. In short using LSTM is a type of Recurrent Neural Network that is good at keeping context for generative models.
 
