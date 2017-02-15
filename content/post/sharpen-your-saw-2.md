@@ -2,6 +2,7 @@
 title = "Sharpen Your Saw 2 - Async"
 date= "2015-02-24T19:23:50"
 published = "true"
+tags = [ "Javascript"]
 +++
 
 

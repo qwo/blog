@@ -2,7 +2,7 @@
 description = ""
 title = "RC 10: Preparing for the Software Interview"
 date = "2017-02-13T17:18:55-05:00"
-
+tag = ["recurse"]
 +++
 
 

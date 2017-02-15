@@ -2,7 +2,7 @@
 title = "Sharpen Your Saw 3 - Mocha"
 description = ""
 date = "2016-02-15T00:24:44"
-
+tags = [ "Javascript"]
 +++
 
 Here is my solution to Sharpen Your Saw 3. We had Steve Hackbarth down again to teach about a core skill in development: testing. We used the popular test runner Mocha.
