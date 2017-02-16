@@ -2,7 +2,7 @@
 description = ""
 title = "RC 11: Stanleybot 🤖 1.Oh.n0"
 date = "2017-02-15T01:07:01-05:00"
-tags = [ "Recurse"]
+tags = ["recurse"]
 +++
 
 During my last week at Recurse, I wanted to apply the knowledge I've gained about Machine Learning into a project. During my batch, I spent a portion of my time immersing myself with the terminology, concepts, and tooling but not as much as I hoped building and applying what I'd learned.
