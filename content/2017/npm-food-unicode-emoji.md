@@ -11,10 +11,10 @@ If we installed this package from [NPM](https://npmjs.com), what do we expect th
 
 ## Original Intent
 
-When I started out, I had an idea of creating a module that generated data for apps. When we created JavaScript apps, we want to populate our views with data but also check the boundaries of our app. I had no idea four years ago that the technical term was [fuzzing](https://en.wikipedia.org/wiki/Fuzzing) and something like [faker](https://www.npmjs.com/package/faker) was what I was hoping to create. Later on I learned [big list of naughty strings](https://github.com/minimaxir/big-list-of-naughty-strings) and I wanted to incorporate it with an easy way to test these strings. (Yay more food!)
+When I started out in 2013, I had an idea of creating a module that generated data for apps. When we created JavaScript apps, we want to populate our views with data but also check the boundaries of our app. I had no idea four years ago that the technical term was [fuzzing](https://en.wikipedia.org/wiki/Fuzzing) and something like [faker](https://www.npmjs.com/package/faker) was what I was hoping to create. Later on I learned [big list of naughty strings](https://github.com/minimaxir/big-list-of-naughty-strings) and I wanted to incorporate it with an easy way to test these strings. (Yay more food!)
 
 ## What Now
-So in 2017, after first learning how to publish npm packages way back when. (It's as simple as [npm publish](https://docs.npmjs.com/getting-started/publishing-npm-packages)!) it still remained empty. I wanted to brush up on creating packages and was recently inspired by Jon New's post on [Unicode in Javascript](blog.jonnew.com/posts/poo-dot-length-equals-two) to create a fun easy way to work with it.
+After first learning how to publish npm packages way back when. (It's as simple as [npm publish](https://docs.npmjs.com/getting-started/publishing-npm-packages)!) it was still empty. I wanted to brush up on creating packages and was recently inspired by Jon New's post on [Unicode in Javascript](blog.jonnew.com/posts/poo-dot-length-equals-two) to create a fun easy way to work with it.
 
 
 ## Data
