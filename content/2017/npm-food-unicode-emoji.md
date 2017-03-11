@@ -2,12 +2,12 @@
 title = "NPM Food - Emojis + NPM Packaging"
 description = ""
 date = "2017-03-11T12:06:44-05:00"
-
+tags = ["javascript"]
 +++
 
-# npm install food
+# `npm install -g food`
 
-What do we expect this to do? What kind of interface would we expect this to implement? I'm not quite sure; This was one of those ideas that I had a spark of an idea and started four years ago. Watching the package go stale and be empty for years reminded me I should try and provide another valuable node package to the world.
+If we installed this package from [NPM](https://npmjs.com), what do we expect this to do? What kind of interface would we expect this to implement? I'm not quite sure; This was one of those ideas that I had a spark of an idea and started four years ago. Watching the package go stale and be empty for years reminded me I should try and provide another valuable node package to the world.
 
 ## Original Intent
 
