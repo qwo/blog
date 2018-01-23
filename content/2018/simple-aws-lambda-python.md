@@ -36,6 +36,7 @@ aws lambda update-function-code --function-name $FUNCTION_NAME --zip-file fileb:
 
 ## Detailed Writeup
 
+What the application example does in `App.py` does is visits a website, copies down the data (presuming its `json`) and inserts it in DynamoDB. The DynamoDB was also created ahead of time through the AWS interface and an example of this can be used for any json feed.
 
 
 ## Building the bundle
@@ -65,8 +66,6 @@ Now install packages to your heart's content. creating a few dependencies or com
 `pip install requests`
 
 Then changing directory to the `site-packages` in your `lib` folder. My directory path happens to be `  $VIRTUAL_ENV/lib/python3.6/site-packages`.
-
-
 
 Zip it up `zip -r9 App.zip $VIRTUAL_ENV/lib/python3.6/site-packages`.
 
