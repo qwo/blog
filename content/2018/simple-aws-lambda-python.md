@@ -11,22 +11,24 @@ tags = ["AWS","Python"]
 
 There are three ways you can get your code to amazon lambda. 
 
-1)  their inline editor 
-2)  S3://Bucket
-3)  Zipped up
+- their inline editor 
+- S3://Bucket 
+- Zipped up 
 
 The below repo has a preconfigured way to clone a repo, and demonstrate adding packages to run on AWS Lambda quickly.
 
-1) Setup an AWS Account and CLI on machine
-2) Provision an AWS Lambda with role `AWSLambdaFullAccess`
-2) Create your function with a unique name from the interface
+- 1) Setup an AWS Account and CLI on machine 
+- 2) Provision an AWS Lambda with role `AWSLambdaFullAccess` 
+- 3) Create your function with a unique name from the interface
+
+
 
 Use the starting point of https://github.com/4projects/python-lambda-template and update `App.py`
 
 
 ### UPDATE CODE 
 ```
-zip -g App.zip App.py
+zip -g App.zip *.py
 aws lambda update-function-code --function-name $FUNCTION_NAME --zip-file fileb://App.zip
 ```
 
