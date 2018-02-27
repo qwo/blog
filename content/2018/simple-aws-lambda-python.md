@@ -5,11 +5,18 @@ date = "2018-01-23T12:06:44-05:00"
 tags = ["AWS","Python"]
 +++
 
+### Update
+
+The bundle of this code is interesting but the bundle is huge! I recommend trying out either of the solutions below.
+
+- [Serverless Framework](https://serverless.com/)
+- [AWS Serverless Application Model](https://docs.aws.amazon.com/lambda/latest/dg/serverless_app.html)
+
 
 ### Intro
-[AWS Lambda](https://aws.amazon.com/lambda/) is a hosted platform for running code in the amazon ecosystem. It supports multiple runtimes including Python! I found that although writing the logic code is easy, there are some unintuitive things that I've stumblbed over.
+[AWS Lambda](https://aws.amazon.com/lambda/) is a hosted platform for running code in the Amazon ecosystem. It supports multiple runtimes including Python! I found that although writing the logic code is easy, there are some unintuitive things that I've stumbled over.
 
-There are three ways you can get your code to amazon lambda. 
+There are three ways you can get your code to Amazon lambda. 
 
 - their inline editor 
 - S3://Bucket 
@@ -17,7 +24,7 @@ There are three ways you can get your code to amazon lambda.
 
 The below repo has a preconfigured way to clone a repo, and demonstrate adding packages to run on AWS Lambda quickly.
 
-- 1) Setup an AWS Account and CLI on machine 
+- 1) Setup an AWS Account and CLI on your machine 
 - 2) Provision an AWS Lambda with role `AWSLambdaFullAccess` 
 - 3) Create your function with a unique name from the interface
 
@@ -43,18 +50,18 @@ What the application example does in `App.py` does is visits a website, copies d
 
 ## Building the bundle
 
-This is how the bundle was built and can be rebuilt. Additional packages can be added onto it. 
+This is how the bundle was built and can be rebuilt. Additional packages can be added in it. 
 
 ### Packaging and uploading your bundle
 
-You need to package third party dependencies. The least painful way is to setup a virtualenv. `pyenv` comes packaged with python3 so after you create a new directory you can do that with:
+You need to package third-party dependencies. The least painful way is to set up a virtualenv. `pyenv` comes packaged with python3 so after you create a new directory you can do that with:
 
 ```
 mkdir APP_NAME && cd APP_NAME
 python3 -m venv .
 ```
 
-Then you have to activate your virtual environment. Depending on your terminal pick the appropriate extension.To activate your virtual environment   you would use `bin/activate`. If you're using fish shell, you can use `bin/activate.fish`.
+Then you have to activate your virtual environment. Depending on your terminal pick the appropriate extension.To activate your virtual environment  you would use `bin/activate`. If you're using fish shell, you can use `bin/activate.fish`.
 
 after your `APP_NAME` directory should look like:
 
