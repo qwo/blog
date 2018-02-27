@@ -1,7 +1,7 @@
 +++
 title ="Amazon Web Services Certified!"
 description = "Solutions Architect * Exams"
-date = 2018-02-27T10:01:57-05:00
+date = 2018-02-26T10:01:57-05:00
 tags = ["AWS"]
 +++
 
