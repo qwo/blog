@@ -16,3 +16,6 @@ Blog using the Cactus theme on the Hugo site generator
 ```
 hugo && surge --project ./public/ --domain blog.stanzheng.com
 ```
+
+
+Last known checked version - Hugo .35
