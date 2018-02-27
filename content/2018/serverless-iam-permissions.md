@@ -1,8 +1,9 @@
----
-title ="Serverless Iam Permissions"
++++
+title ="Serverless IAM Permissions"
+description = "Minimal Serverless Permissions"
 date = 2018-02-01T10:01:57-05:00
 tags = ["AWS"]
----
++++
 
 How do we create an IAM (Identity Access Management) user with the bare minimum permissions to access the resources it needs for Serverless? What do the individual IAM services and permissions mean? 
 
