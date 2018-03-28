@@ -1,7 +1,7 @@
 ---
-title: "Laguardia to Gate in 30 Mins"
+title: "Margin of Error: LaGuardia to Gate in 30 Mins"
 date: 2018-03-28T00:28:23-04:00
-draft: true
+tags: ["blog","notcode"]
 ---
 
 
