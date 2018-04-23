@@ -14,7 +14,7 @@ An example of this is a small barber shop, near the flight walk down below the [
 
 This basement barber shop price for a haircut hasn't changed in over two decades. They have full-service cut/edge/wash/dry service for $10 (not including tip). It's in the heart of East Broadway Chinatown, near the section that intersects the Manhattan Bridge underpass.
 
-When I was a kid in the 90s, my earliest memories were the smell of clippings and leftover cigarettes mixed with hairspray in the bustling basement. I came here on a Sunday @ 11 am expecting a packed crowd, but instead found an empty parlor shop. All 6 men's in the shop's eyes lit up as I walked through the door; The shop was empty and it seems like I was the first customer they'd seen all day. One man motion me but I had a barber in mind -- my grandfather's cousin --. He has been cutting hair his entire life, and at least 30 of those years have been here. 
+When I was a kid in the 90s, my earliest memories were the smell of clippings and leftover cigarettes mixed with hairspray in the bustling basement. I came here on a Sunday at 11 am expecting a packed crowd, but instead found an empty parlor shop. All 6 men's in the shop's eyes lit up as I walked through the door; The shop was empty and it seems like I was the first customer they'd seen all day. One man motion me but I had a barber in mind -- my grandfather's cousin --. He has been cutting hair his entire life, and at least 30 of those years have been here. 
 
 
 I sit down and start to get a trim. The men in the parlor sit around idle, watching television. Two of the men receive a call and leave, business is dead and they're going to go meet up with friends in the park. The other 3 barbers sit idle, complaining how the neighborhood had changed.
