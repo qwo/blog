@@ -35,7 +35,7 @@ From my days studying social and human geography, barbershops are associated wit
 
 Manhattan Chinatown is the oldest Chinatown in the area, but as 8th Avenue and Flushings offer wider streets and cheaper rent, people have left. I hope more of these institutions stay in the city, and often these places are left behind in a digital age.
 
-For those that take language barriers (language adventure?) and happy to get out of their comfort zone for a deal; 
+For those that don't mind language barriers  (language adventure?) and happy to get out of their comfort zone for a deal; 
 
 Here are detailed instructions to find the place.
 
