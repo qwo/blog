@@ -19,15 +19,15 @@ When I was a kid in the 90s, my earliest memories were the smell of clippings an
 
 I sit down and start to get a trim. The men in the parlor sit around idle, watching television. Two of the men receive a call and leave, business is dead and they're going to go meet up with friends in the park. The other 3 barbers sit idle, complaining how the neighborhood had changed.
 
-"Everyones moved away, this place isn't the same anymore"
+"Everyones moved away, this place isn't the same anymore."
 
-"We use to have 3 cashier runners, for all the barbers, now we have one"
+"We use to have 3 cashier runners, for all the barbers, now we have one."
 
 "Sundays use to be packed but everyone can't afford rent here anymore and moved out of Manhattan." 
 
-"All the young have moved away"
+"All the young have moved away!"
 
-"Its difficult to make a profit in Chinatown anymore"
+"Its difficult to make a profit in Chinatown anymore."
 
 ![getting cut](https://lh3.googleusercontent.com/QVkMlPeqVAznfEpNUyENI0MOwi5oP_BlLc_m6ihkXNqe34lwZEHaUDuVBkQfUdQyI8PwlYEq19Ruxa3V_Wx7qZ1ScnVIM3j-NFJJ0qy1-oEOcCLp3L-lA4FyrE-_rvnlk1C9KncFwl2QIMAcwuO_SU3OFsdCj0L_fkoYG8kC3H72zOlhYCJQDzq2aSUW0dcHZKjKGJMcrOmwJSkimtCGEKNFv2MHY2TFtDVrr2bU5MMoy0vTwiMru-hSxkReHE7H7pEatyqtil1ydaOud_Tp7FS9fJfGN8e61z4TijSQoZ5fNGCUX_mUqOdurFiCy8WJjbs3MQRo4ISCNX2MkRhu2ibwInkc9EHfX7oOEWJXK3AtBQ155VmmTDo2wKM5yZniU3-7JZ-14oYcPJRBMC5V3GKkvA7K4R5Sj6Gx5H8oK2WUzcNkDrlZVAbZiDzEhbqcRGBxmz9MF7EfRvS0qVJeOUvDmtkGTNnW70HCNU0IBqFfwzSNaQhXgMJVy4_3MRXZUWlOVyvodXT1bclotv61zFhNC31YqmXlzRXGKPV6NOqozS0zDhU8oTkc2njBgs1N_9g-AuIE2GRGRgC3QKbQLgmv3iM1cTkGlN-7eA77wQRWIR7aI1U3PicQ85f5vYNAYc-TnGibGU4b64QBTo2PCpcDDBcSCFVyBQ=w1805-h1353-no)
 
