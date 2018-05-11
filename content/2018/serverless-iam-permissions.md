@@ -71,3 +71,5 @@ A policy discussed here, you can define as JSON version templates will allow ser
 Other permissions can be done on a case by case basis. I wanted to under the hood the minimum number of resources you needed to interact with Serverless through terraform [here](https://github.com/tealtail/wildryde-terraform-serverless).
 
 Being its an uncommon ask there were already questions about this on the github serverless forum. This user here [berry2012 generated a full list](https://github.com/serverless/serverless/issues/588) from their finding that I found super helpful also to further my understanding. 
+
+Both policies can be found standalone in gist form here [https://gist.github.com/stanzheng/abaf61555d8820b3d6bede0e156b1e19](https://gist.github.com/stanzheng/abaf61555d8820b3d6bede0e156b1e19)
