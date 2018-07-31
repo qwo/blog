@@ -20,6 +20,21 @@ A fun aside is that all the certifications are hosted on [certified.net](https:/
 - [Associate Engineer](https://www.credential.net/2gj7nquy?key=0984470f346baaca2ec058bd19d1eb504fd4afcb7c68661328ddc1c3bb7f932b)
 
 ## background
+For my first job, I worked at [an Advertising Agency](https://thisisgrow.com/) that hosted most of their applications and infrastructure on Google Cloud Platform. For two years, I worked mostly with App Engine, Cloud Storage, and Compute Engine to build ad infrastucture. Prior to that, I had only used Google APIs and generated service keys to use for Apps.
+
+Google was early in the space with releasing App Engine in 2008. The service became Generally Avaliable in November 2011. They released Google Compute Engine, a competitor to Amazon Elastic Compute Cloud (EC2) near the end of 2013. Google was slow in maturity for convincing enterprise companies to adopt Google Cloud Platform as a serious contender to Amazon.
+
+
+## Why?
+
+AWS has a huge incumbent stake in the market with AWS being an [over 250 billion dollar business](https://seekingalpha.com/article/4140036-much-amazon-web-services-worth-now)
+Having worked on both platforms, I have a strong belief that Google Cloud Platform will be able to outgrow its competitors based off the features and services the platform offers.
+
+However in a market, not even the best designed tools build by Google can win unless they capture commercial market share. And the only way to do that is to establish their own ecosystems and teach developers how to use their platform.
+
+# The Comparison
+
+
 
 
 
