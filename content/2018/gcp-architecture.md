@@ -41,7 +41,7 @@ However in the currently Cloud Ecosystem, the best-designed tools, even built by
 # Comparing the 3 Exams
 
 ## Overview
-Largely the exams aim to be a practical baseline assessment of day-to-day duties at a Google Cloud Platform oriented company. I found the exams practical and fair in their assessments of candidates comprehension compared to Amazon. (I have done the Solutions Architect Associate, Professional, and the Associate Developer Certifications for AWS).
+Largely the exams aim to be a practical baseline assessment of day-to-day duties at a Google Cloud Platform oriented company. I found the exams practical and fair in their assessments of candidates comprehension compared to Amazon. Previously, I have done the Solutions Architect Associate, Professional, and the Associate Developer Certifications for AWS.
 
 These summaries are also in the outlines and course guides but I would summarize in their respective guides. IE the one for the [associate engineer outlines at a high level](https://cloud.google.com/certification/guides/cloud-engineer/) the topics and competencies you should be required to know.
 
