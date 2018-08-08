@@ -91,7 +91,7 @@ GCP Associate Engineer is akin to the AWS Developer Associate certificate.
 
 The assessment covers "how would a day-to-day engineer focused on app development run workloads on cloud and use the tools in their tool bots. For Google Cloud this means lots of Google Container Engine/Kubenetes, Google App Engine, Storage, Instance template/managed group questions.
 
-I think it by far a more "hands" on approach. Architect exam there were case studies and "migration" situations, whereas the Engineer exam did not have any. Compared to Data Engineer no really heavy questions on BigQuery or Big Table optimization or storage constraints; just knowing what these services are at a high level (relation/not relational/managed/not managed) was good enough (edited)
+I think it by far a more "hands on" approach. Architect exam there were case studies and "migration" situations, whereas the Engineer exam did not have any. Compared to Data Engineer no really heavy questions on BigQuery or Big Table optimization or storage constraints; just knowing what these services are at a high level (relation/not relational/managed/not managed) was good enough (edited)
 I had 21 questions I was sure about, 16 I was 80%> sure and 13 that were about 50/50 educated guesses. I ended up finishing in 70 minutes and reviewed the rest of my questions
 
 
