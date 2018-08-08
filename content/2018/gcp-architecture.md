@@ -6,7 +6,7 @@ tags = ["GCP", "Certifications"]
 +++
 
 
-Back in May, I [shared on Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6399229464563187713/) that I received my [Google Cloud Architect](https://cloud.google.com/certification/cloud-architect) certification. It was probably my most shared post ever on the platform. A week later, I attained the [Data Engineer](https://cloud.google.com/certification/data-engineer) certification and at the beginning of July, the [Associate Cloud Engineer](https://cloud.google.com/certification/cloud-engineer). I staked that I was the first engineer at Cloudreach to get all three. I get a few common questions and I hoped to answer all here:
+Back in May, I [shared on Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6399229464563187713/) that I received my [Google Cloud Architect](https://cloud.google.com/certification/cloud-architect) certification. It was probably my most shared post ever on the platform. A week later, I attained the [Data Engineer](https://cloud.google.com/certification/data-engineer) certification and at the beginning of July, the [Associate Cloud Engineer](https://cloud.google.com/certification/cloud-engineer). I ventured to guess that I was the first engineer at Cloudreach to get all three. I get a few common questions and I hoped to answer all here:
 
 - What's the big difference between them all?
 - How do you recommend preparing for them?
@@ -34,7 +34,7 @@ Google was early in the space with releasing App Engine in 2008. The service bec
 AWS has a huge incumbent stake in the market with AWS being an [over 250 billion dollar business](https://seekingalpha.com/article/4140036-much-amazon-web-services-worth-now)
 Having worked on both platforms, I have a strong belief that the Google Cloud Platform will be able to outgrow its competitors based on the features and services the platform offers.
 
-However, in a market, not even the best-designed tools build by Google can win unless they capture commercial market share. And the only way to do that is to establish their own ecosystems and teach developers how to use their platform.
+However, in a market, not even the best-designed tools built by Google can win unless they capture commercial market share. And the only way to do that is to establish their own ecosystems and teach developers how to use their platform.
 
 --- 
 
