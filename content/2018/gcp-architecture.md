@@ -74,10 +74,9 @@ Goal: Day-to-Day knowledge working at a company building and deploying applicati
 - No Case Studies
 
 ---
-## Assessment overall
+## What is the Associate Engineer?
 
-Although many of them follow together, I think individually assessments are useful
-How is the associate cloud engineer different from professional cloud architect?.
+As the newest exam it has the least information and most misconceptions out about it that I wanted to call out.     How is the associate cloud engineer different from professional cloud architect? 
 
 ```
 > Apples : Oranges 
@@ -86,13 +85,13 @@ How is the associate cloud engineer different from professional cloud architect?
 ```
 
 I think they are very different; The Associate Engineer is poorly named; 
-It's not like AWS SA Associate to - SA Associate Professional in AWS parlance. A logical progression of step 1 to step 2. 
+It's not like AWS SA Associate to - SA Associate Professional in AWS parlance. (A logical progression of step 1 to step 2)
 
-GCP Associate Engineer is more similar to the AWS Developer Associate certificate. 
+GCP Associate Engineer is akin to the AWS Developer Associate certificate. 
 
-The assessment covers "how would a day-to-day engineer focused on app development run workloads on cloud and use the tools in their tool bots. For Google Cloud this means lots of GKE/Kube, Google App Engine/ Storage/ Instance template/managed group questions.
+The assessment covers "how would a day-to-day engineer focused on app development run workloads on cloud and use the tools in their tool bots. For Google Cloud this means lots of Google Container Engine/Kubenetes, Google App Engine, Storage, Instance template/managed group questions.
 
-I think it is a more "hands" on approach. Architect exam there were case studies and "migration" situations. The Engineer exam did not have any. Compared to Data Engineer no really heavy questions on BigQuery or Big Table optimization or storage constraints; just knowing what these services are at a high level (relation/not relational/managed/not managed) was good enough (edited)
+I think it by far a more "hands" on approach. Architect exam there were case studies and "migration" situations, whereas the Engineer exam did not have any. Compared to Data Engineer no really heavy questions on BigQuery or Big Table optimization or storage constraints; just knowing what these services are at a high level (relation/not relational/managed/not managed) was good enough (edited)
 I had 21 questions I was sure about, 16 I was 80%> sure and 13 that were about 50/50 educated guesses. I ended up finishing in 70 minutes and reviewed the rest of my questions
 
 
@@ -119,6 +118,8 @@ Later on, to compete on a contest at work for a trip to GCP next, I decided to d
 - [GCP Solutions](http://gcp.solutions/) - site with common GCP architect patterns flashcard style.
 
 
-## Conclusion
+----
+
+## Final Thoughts
 
 The exams were great but do not beat real-world experience with the platform. I felt like I was in high school again studying for the SATs and general good test taking and studying practices were key. These exams are a great starting point for your journey to the Cloud. If you'd like to learn more, feel free to drop me a line on any of my social media or email channels.
