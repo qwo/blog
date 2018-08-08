@@ -86,6 +86,17 @@ I had 21 questions I was sure about, 16 I was 80%> sure and 13 that were about 5
 
 ---- 
 
+## My Timetable to completiion
+
+I did these in an expedite fashion for my work but also having deep prior experience, I did it at an accelerated pace. Google does not reveal scores, so the pass threshold is unclear unlike AWS where 60% correct is usually a pass on their averaged exams. 
+
+For my first exam, I did the Cloud Architect for preparing for one weekend of 30 hours of review and study. I took it the following Monday and was able to earn a pass. (2 May 2018)
+
+My second exam, I did the Data Engineering, by studying that following weekend with the same below resources, equally putting 30 hours of review and study. I was able to take it the follow week again and earned a pass (8 May 2018).
+
+Later on, to compete on a contest at work for a trip to GCP next, I decided to do the newer beta engineer exam with a weekend of prep but I likely spend only ~8 hours in preparation. I had spend prior to this 3 months working knee deep working in GCP actively again which made it easy. (6 July 2018)
+
+
 ## Preparation
 - Udemy Course
 - Cloud Academy Course
@@ -94,4 +105,6 @@ I had 21 questions I was sure about, 16 I was 80%> sure and 13 that were about 5
 https://docs.google.com/presentation/d/1vjm5YdmOH5LrubFhHf1vlqW2O9Z2UqdWA8biN3e8K5U/edit#slide=id.p99
 - Storage Options
 - Practice Quiz
+
+
 
