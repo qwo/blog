@@ -66,7 +66,7 @@ Goal: Assess tradeoffs revolving around processing, analyzing, and storing data 
 - Some case studies for choosing data sources
 
 ### Associate Engineer
-Goal: Assess ability to do Day-to-Day knowledge working at acompany building and deploying applications on GCP.
+Goal: Maintain and expand Day-to-Day knowledge working at acompany building and deploying applications on GCP.
 
 - Focus on App Engine
 - Focus on Kubernetes
