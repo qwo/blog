@@ -57,7 +57,7 @@ Goal: Test someone architecting solutions on Google Cloud Platform from either m
 
 ### Data Engineer
 
-Goal: Assessing tradeoffs revolving around processing, analyzing, and storing data on Google Cloud Platform.
+Goal: Assess tradeoffs revolving around processing, analyzing, and storing data on Google Cloud Platform.
 
 - Focus on using Dataflow vs Dataproc
 - Focus on different data retention strategies and trade-offs
