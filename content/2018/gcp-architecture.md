@@ -12,14 +12,17 @@ Back in May, I [shared on Linkedin](https://www.linkedin.com/feed/update/urn:li:
 - How do you recommend preparing for them?
 - What's the point of professional certifications?
 
+--- 
+> A fun aside is that all the certifications for GCP and other companies are hosted on [credential.net](https://www.credential.net/), a blockchain backed cert platform. 
 
-A fun aside is that all the certifications are hosted on [certified.net](https://certified.net),a blockchain backed cert platform. All of my certifications can be verified respectively below:
+
+### All of my certifications can be verified respectively below:
 
 - [Cloud Architect](https://www.credential.net/eaf9xkih?key=0c7d614393291892e18cef85000144013e32013d77978c9c71f4581f11314342)
 - [Data Engineer](https://www.credential.net/4k6bclwz?key=81f4043570401173ae2a588da3f425647812eb4c5b8fbb249ce31cf3ce5e7914)
 - [Associate Engineer](https://www.credential.net/2gj7nquy?key=0984470f346baaca2ec058bd19d1eb504fd4afcb7c68661328ddc1c3bb7f932b)
 
-
+----
 ## Background
 For my first job, I worked at [an Advertising Agency](https://thisisgrow.com/) that hosted most of their applications and infrastructure on Google Cloud Platform. For two years, I worked mostly with App Engine, Cloud Storage, and Compute Engine to build ad infrastructure. Prior to that, I had only used Google APIs and generated service keys to use for Apps.
 
