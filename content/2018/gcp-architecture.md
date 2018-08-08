@@ -74,14 +74,23 @@ Goal: Day-to-Day knowledge working at a company building and deploying applicati
 - No Case Studies
 
 ---
-## Assessment
+## Assessment overall
 
 Although many of them follow together, I think individually assessments are useful
 How is the associate cloud engineer different from professional cloud architect?.
 
-I think they are way different; It's poorly named; It's not like AWS SA Associate to  - SA Associate Professional in AWS parlance. This progression analogy is more so 
+```
+> Apples : Oranges 
+> AWS Solution Architect Associate : AWS Developer Associate  
+> GCP Cloud Architect : GCP Associate Engineer 
+```
 
-GCP Associate Engineer is more similar to the AWS Developer Associate certificate. The assessment covers "how would a day-to-day engineer focused on app development run workloads on cloud and use the tools in their tool bots. For Google Cloud this means lots of GKE/Kube, Google App Engine/ Storage/ Instance template/managed group questions.
+I think they are very different; The Associate Engineer is poorly named; 
+It's not like AWS SA Associate to - SA Associate Professional in AWS parlance. A logical progression of step 1 to step 2. 
+
+GCP Associate Engineer is more similar to the AWS Developer Associate certificate. 
+
+The assessment covers "how would a day-to-day engineer focused on app development run workloads on cloud and use the tools in their tool bots. For Google Cloud this means lots of GKE/Kube, Google App Engine/ Storage/ Instance template/managed group questions.
 
 I think it is a more "hands" on approach. Architect exam there were case studies and "migration" situations. The Engineer exam did not have any. Compared to Data Engineer no really heavy questions on BigQuery or Big Table optimization or storage constraints; just knowing what these services are at a high level (relation/not relational/managed/not managed) was good enough (edited)
 I had 21 questions I was sure about, 16 I was 80%> sure and 13 that were about 50/50 educated guesses. I ended up finishing in 70 minutes and reviewed the rest of my questions
