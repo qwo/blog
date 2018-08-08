@@ -34,11 +34,39 @@ However in a market, not even the best designed tools build by Google can win un
 
 # The Comparison
 
+## Overview
+Largely the exams aim to be a practical baseline assessment of day-to-day duties at a Google Cloud Platform oriented company. I found the exams practical and fair in their assessments compared to Amazon.
 
+## Assessment
 
+### Cloud Architect
+
+Goal: Test someone architecting solutions on Google Cloud Platform from either migration or greenfield development.
+- Focus on Compute Engine
+- Focus on Networking concepts
+- Focused on case studies and migrations for right sizing workloads
+
+### Data Engineer
+
+Goal: Assessing tradeoffs revolving around processing, analysizing, and storing data on Google Cloud Platform.
+- Focus on using Dataflow vs Dataproc
+- Focus on different data retention strategies and trade offs
+- Focus on Big data processing workflows
+- Focus on undering the cases to use BigTable and BigQuery and their trade offs
+- Some case studies
+
+### Associate Engineer
+Goal: Day-to-Day knowledge working at a company building and deploying applications on GCP.
+- Focus on App Engine
+- Focus on Kubernetes
+- Focus on Gcloud Console
+- No Case Studies
 
 
 ## Assessment
+
+Although many of them follow together, I think individually assessments are useful
+
 
 ## Preparation
 - Udemy Course
