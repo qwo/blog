@@ -34,7 +34,7 @@ Google was early in the space with releasing App Engine in 2008. The service bec
 AWS has a huge incumbent stake in the market with AWS being an [over 250 billion dollar business](https://seekingalpha.com/article/4140036-much-amazon-web-services-worth-now)
 Having worked on both platforms, I have a strong belief that the Google Cloud Platform will be able to outgrow its competitors based on the features and services the platform offers.
 
-However in the currently Cloud Ecosystem, the best-designed tools, even built by Google, can win mind and commercial market share. The only way to do that is to establish their own ecosystems and teach developers how to use their platform.
+However, in the current Cloud Ecosystem, the best-designed tools, even built by Google, can win mind and commercial market share. The only way to do that is to establish their own ecosystems and teach developers how to use their platform.
 
 --- 
 
