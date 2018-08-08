@@ -38,7 +38,7 @@ However, in a market, not even the best-designed tools build by Google can win u
 
 --- 
 
-# The Comparison
+# Comparing the 3 Exams
 
 ## Overview
 Largely the exams aim to be a practical baseline assessment of day-to-day duties at a Google Cloud Platform oriented company. I found the exams practical and fair in their assessments of candidates comprehension compared to Amazon. (I have done the Solutions Architect Associate, Professional, and the Associate Developer Certifications for AWS).
