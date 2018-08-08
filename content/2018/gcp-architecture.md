@@ -19,12 +19,13 @@ A fun aside is that all the certifications are hosted on [certified.net](https:/
 - [Data Engineer](https://www.credential.net/4k6bclwz?key=81f4043570401173ae2a588da3f425647812eb4c5b8fbb249ce31cf3ce5e7914)
 - [Associate Engineer](https://www.credential.net/2gj7nquy?key=0984470f346baaca2ec058bd19d1eb504fd4afcb7c68661328ddc1c3bb7f932b)
 
-## background
+
+## Background
 For my first job, I worked at [an Advertising Agency](https://thisisgrow.com/) that hosted most of their applications and infrastructure on Google Cloud Platform. For two years, I worked mostly with App Engine, Cloud Storage, and Compute Engine to build ad infrastucture. Prior to that, I had only used Google APIs and generated service keys to use for Apps.
 
 Google was early in the space with releasing App Engine in 2008. The service became Generally Avaliable in November 2011. They released Google Compute Engine, a competitor to Amazon Elastic Compute Cloud (EC2) near the end of 2013. Google was slow in maturity for convincing enterprise companies to adopt Google Cloud Platform as a serious contender to Amazon.
 
-
+---
 ## Why?
 
 AWS has a huge incumbent stake in the market with AWS being an [over 250 billion dollar business](https://seekingalpha.com/article/4140036-much-amazon-web-services-worth-now)
@@ -32,16 +33,21 @@ Having worked on both platforms, I have a strong belief that Google Cloud Platfo
 
 However in a market, not even the best designed tools build by Google can win unless they capture commercial market share. And the only way to do that is to establish their own ecosystems and teach developers how to use their platform.
 
+--- 
+
 # The Comparison
 
 ## Overview
-Largely the exams aim to be a practical baseline assessment of day-to-day duties at a Google Cloud Platform oriented company. I found the exams practical and fair in their assessments compared to Amazon.
+Largely the exams aim to be a practical baseline assessment of day-to-day duties at a Google Cloud Platform oriented company. I found the exams practical and fair in their assessments of candidates comprehension compared to Amazon. (I have done the Solutions Architect Associate, Professional and the Associate Developer Certifications for AWS).
+
+These summaries are also in the outlines and course guides but I would summarize in their respect guides. IE the one for the [associate engineer outlines at a high level](https://cloud.google.com/certification/guides/cloud-engineer/) the topics and competencies you should required to know.
 
 ## Assessment
 
 ### Cloud Architect
 
 Goal: Test someone architecting solutions on Google Cloud Platform from either migration or greenfield development.
+
 - Focus on Compute Engine
 - Focus on Networking concepts
 - Focused on case studies and migrations for right sizing workloads
@@ -49,24 +55,36 @@ Goal: Test someone architecting solutions on Google Cloud Platform from either m
 ### Data Engineer
 
 Goal: Assessing tradeoffs revolving around processing, analysizing, and storing data on Google Cloud Platform.
+
 - Focus on using Dataflow vs Dataproc
 - Focus on different data retention strategies and trade offs
 - Focus on Big data processing workflows
 - Focus on undering the cases to use BigTable and BigQuery and their trade offs
-- Some case studies
+- Some case studies for choosing data sources
 
 ### Associate Engineer
 Goal: Day-to-Day knowledge working at a company building and deploying applications on GCP.
+
 - Focus on App Engine
 - Focus on Kubernetes
 - Focus on Gcloud Console
 - No Case Studies
 
-
+---
 ## Assessment
 
 Although many of them follow together, I think individually assessments are useful
+How is the associate cloud engineer different from professional cloud architect?.
 
+I think they are way different;  Its poorly named; Its not like AWS SA Associate to  - SA Associate Professional in AWS parlance. This progression analogy is more so 
+
+GCP Associate Engineer is more similar to the AWS Developer Associate certificate. The assessment covers "how would a day-to-day engineer focused on app development run workloads on cloud and use the tools in their tool bots. For Google Cloud this means lots of GKE/Kube, Google App Engine/ Storage/ Instance template/managed group questions.
+
+I think it is a a more "hands" on approach. Architect exam there were case studies and "migration" situations. The Engineer exam did not have any. Compared to Data Engineer no really heavy questions on BigQuery or Big Table optimization or storage constraints; just knowing what these services are at a high level (relation/not relational/managed/not managed) was good enough (edited)
+I had 21 questions I was sure about, 16 I was 80%> sure and 13 that were about 50/50 educated guesses. I ended up finishing in 70 minutes and reviewed the rest of my questions
+
+
+---- 
 
 ## Preparation
 - Udemy Course
