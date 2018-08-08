@@ -98,13 +98,15 @@ Later on, to compete on a contest at work for a trip to GCP next, I decided to d
 
 
 ## Preparation
-- Udemy Course
-- Cloud Academy Course
-- Case Studies Partner Portal
-- Solutions Slides familiarizing with icons
-https://docs.google.com/presentation/d/1vjm5YdmOH5LrubFhHf1vlqW2O9Z2UqdWA8biN3e8K5U/edit#slide=id.p99
-- Storage Options
-- Practice Quiz
+- [GCP: Complete Google Data Engineer and Cloud Architect Guide](https://www.udemy.com/gcp-data-engineer-and-cloud-architect/) - Udemy Course. Most comprehensive set of courses for all 3 overview.
+- [Cloud Academy Courses](https://cloudacademy.com/library/google/) - These were very comprehensive and I felt more intermediate-expert courses that gave you real useful information for the exam but also for day to day. 
+- Case Studies Partner Portal - Google runs a partner portal for GCP, that people can sign up for. There are lots of great discussion and resources on the site.
+- [Solutions Slides](https://docs.google.com/presentation/d/1vjm5YdmOH5LrubFhHf1vlqW2O9Z2UqdWA8biN3e8K5U/edit#slide=id.p99) -  familiarizing with icons and common architecture patterns. This is great for building diagrams also 
+- Storage Options - Review heavily the storage options, costs between Storage, Datastore, BigQuery BigTable, CloudSQL, Persistant disk/ssd and the different time and latency tradeoffs. 
+- Practice Quizes for each exam - on their respectives site theres a google form that gives you a good assessment to judge your familiarity after your first round of studying.
+- [GCP Solutions](http://gcp.solutions/) - site with common GCP architect patterns flash card style.
 
 
+## Conclusion
 
+The exams were great but do not beat real world experience with the platform. I felt like I was in high school again studying for the SATs and general good test taking and studying practices were key. These exams are a great starting point for your journey to the Cloud. If you'd like to learn more, feel free to drop me a line on any of my social media or email channels.
