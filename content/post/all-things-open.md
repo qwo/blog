@@ -13,7 +13,7 @@ All Things Open is an amazing conference in its fourth year running hosted in Ra
 <br/>
 
 ## You Should Go
-- **Cheap Price:** for $199 this was a very inexpensive conference. The conference hotel for *one day* cost more than two days of tickets including great after hours celebrations on three days.
+- **Affordable:** for $199 this was a very inexpensive conference. The conference hotel for *one day* cost more than two days of tickets including great after hours celebrations on three days.
 - **Celebrates Open Source:** the breadth and diversity of open source contributors is amazing. Spending a few days getting to talk to open source contributors and companies let's you know what everyones interested in and where the industry is going.
 - **Diversity of Topics:** There were 8 different tracks you could mix or match. If you were interested in tech, there was something there for you.
 
