@@ -39,7 +39,7 @@ view = "view"
 	readMore = ""
 	copyright = ""
 	# Sharing options and author information in posts
-	aboutAuthor = "Polyglot who loves to experiment and explore."
+	aboutAuthor = "Polyglot who loves to experiment and explore"
 	tweet = ""
 	share = ""
 	# 404 page
@@ -54,6 +54,6 @@ view = "view"
 # Add additional social link entries underneath
 [social]
     twitter  = "https://www.twitter.com/stanzheng"
-    facebook = "https://www.facebook.com/stanley.zheng.usa"
+    instagram = "https://www.instagram.com/yostanzheng"
     github   = "https://www.github.com/stanzheng"
 	rss  	 = "/index.xml"
