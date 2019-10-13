@@ -21,7 +21,7 @@ view = "view"
 	twitter = "stanzheng"
 	enableRSS = true
 	aboutURL = "https://stanzheng.com"
-	subscribeURL = "/subscribe"
+	subscribeURL = "https://tinyletter.com/stanzheng"
 	# Add custom assets with their paths relative to the static folder
 	customCSS = []
 	customJS  = []
@@ -32,7 +32,7 @@ view = "view"
 	# Navigation links
 	home = ""
 	about = ""
-	subscribe = "Join Mailing List"
+	subscribe = "Join My TinyLetter!"
 	# Pagination links
 	olderPosts = ""
 	newerPosts = ""
