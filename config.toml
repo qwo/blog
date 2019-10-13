@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://blog.stanzheng.com/"
+baseurl = "https://stanzheng.com/blog/"
 languageCode = "en-us"
 title = "Stanley Zheng"
 theme = "cactus"
