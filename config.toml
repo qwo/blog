@@ -10,8 +10,8 @@ disqusShortname = "" # "stanzheng-com"
 paginate = 8
 
 [taxonomies]
-tag = "tags"
-view = "view"
+	tag = "tags"
+	view = "view"
 
 [params]
 	name = "Stanley Zheng"
