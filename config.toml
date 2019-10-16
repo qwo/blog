@@ -53,7 +53,8 @@ view = "view"
 
 # Add additional social link entries underneath
 [social]
-    twitter  = "https://www.twitter.com/stanzheng"
+    twitter   = "https://www.twitter.com/stanzheng"
     instagram = "https://www.instagram.com/yostanzheng"
-    github   = "https://www.github.com/stanzheng"
-	rss  	 = "/index.xml"
+    github    = "https://www.github.com/stanzheng"
+	linkedin  = "https://www.linkedin.com/in/stanley-zheng"
+	rss  	  = "/blog/index.xml"
