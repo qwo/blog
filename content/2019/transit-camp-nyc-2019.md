@@ -1,7 +1,7 @@
 +++
 title ="Transit Camp NYC 2019!"
 description = "The New Mobility"
-date = 2019-02-26T10:01:57-05:00
+date = 2019-10-16T10:01:57-05:00
 tags = ["civictech"]
 +++
 
