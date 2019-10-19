@@ -6,9 +6,9 @@ tags = ["civictech"]
 +++
 
 
-I went to Transit Camp NYC 2019 and had a wonderful time! I heard about the event from some mutual friends. I was really into civic tech which I think is a subset of transit planning. It is really exciting to hear about grass root organizing and transit organization meeting together to talk about big ideas. It was interesting the corporate sponsorship of the event. 
+I went to Transit Camp NYC 2019 and had a wonderful time! I heard about the event from some mutual friends. I was really into civic tech which I think is a subset of transit planning. It is really exciting to hear about grass root organizing and transit organization meeting together to talk about big ideas. 
 
-Whole day was full of unconferences that made it a dynamic conference set by the people there in the room.
+The whole day was full of unconferences that made it a dynamic conference set by the people there in the room.
 
 Here are my long form notes from the event. 
 https://docs.google.com/document/d/1Hcuxh2zTQ8owxDnYScx88gOVSfLepFj6pT0btSpgbtg/edit
