@@ -1,8 +1,8 @@
 +++
 title = "RC 6: Quantified Checkin"
 description = ""
-date = "2017-01-01T15:55:30-05:00"
 tag = ["recurse"]
+date = "2017-01-01T15:55:30-05:00"
 +++
 
 My time at the Recurse Center is halfway over, and the next portion starts this Tuesday on Jan 3rd in the new year after a week hiatus. There will be ~30 new faces joining and only 6 weeks left of the batch left. Two months have flown by and so much has been done it's hard to gather and describe so I've decided to quantify it integers and data form.
