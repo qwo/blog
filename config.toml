@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://blog.stanzheng.com/"
+baseurl = "https://stanzheng.com/blog/"
 languageCode = "en-us"
 title = "Stanley Zheng"
 theme = "cactus"
@@ -10,8 +10,8 @@ disqusShortname = "" # "stanzheng-com"
 paginate = 8
 
 [taxonomies]
-tag = "tags"
-view = "view"
+	tag = "tags"
+	view = "view"
 
 [params]
 	name = "Stanley Zheng"
@@ -21,7 +21,7 @@ view = "view"
 	twitter = "stanzheng"
 	enableRSS = true
 	aboutURL = "https://stanzheng.com"
-	subscribeURL = "/subscribe"
+	subscribeURL = "https://tinyletter.com/stanzheng"
 	# Add custom assets with their paths relative to the static folder
 	customCSS = []
 	customJS  = []
@@ -32,14 +32,14 @@ view = "view"
 	# Navigation links
 	home = ""
 	about = ""
-	subscribe = "Join Mailing List"
+	subscribe = "Join My TinyLetter!"
 	# Pagination links
 	olderPosts = ""
 	newerPosts = ""
 	readMore = ""
 	copyright = ""
 	# Sharing options and author information in posts
-	aboutAuthor = "Polyglot who loves to experiment and explore."
+	aboutAuthor = "Polyglot who loves to experiment and explore"
 	tweet = ""
 	share = ""
 	# 404 page
@@ -53,7 +53,8 @@ view = "view"
 
 # Add additional social link entries underneath
 [social]
-    twitter  = "https://www.twitter.com/stanzheng"
-    facebook = "https://www.facebook.com/stanley.zheng.usa"
-    github   = "https://www.github.com/stanzheng"
-	rss  	 = "/index.xml"
+    twitter   = "https://www.twitter.com/stanzheng"
+    instagram = "https://www.instagram.com/yostanzheng"
+    github    = "https://www.github.com/stanzheng"
+	linkedin  = "https://www.linkedin.com/in/stanley-zheng"
+	rss  	  = "/blog/index.xml"
