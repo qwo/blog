@@ -6,6 +6,13 @@ date = "2017-01-11T11:43:03-05:00"
 
 +++
 
+## Edit
+To use send from GMAIL from Zoho configure the below settings
+
+1. Under [Gmail -> Settings](https://mail.google.com/mail/u/0/#settings/accounts), Click "add a mail account" 
+2. Select the email provider with `smtp.zoho.com`  over port `465` using your confirmed email. This will use SSL over email. 
+3. If you use SSO using another provider, you will have to generate a one time password to use from [https://accounts.zoho.com/u/h#security/app_password](https://accounts.zoho.com/u/h#security/app_password).
+
 
 I've been a long supporter of Google Services; Practically it's wired into our online identity. And the nature of your Google account, it touches everything now. It builds value when it can aggregate all the parts of your identity across their properties. Just check out your [Google MyActivities](https://myactivity.google.com/myactivity), they have information on all your interaction with all of Google's services across your devices. The difficulty of sticking with GSuite means splitting your data between different profiles.
 
