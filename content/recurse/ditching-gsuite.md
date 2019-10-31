@@ -7,6 +7,9 @@ date = "2017-01-11T11:43:03-05:00"
 +++
 
 ## Edit
+
+This method isn't possible anymore as email forwarding requires premium to forward email but sending email possible.
+
 To use send from GMAIL from Zoho configure the below settings
 
 1. Under [Gmail -> Settings](https://mail.google.com/mail/u/0/#settings/accounts), Click "add a mail account" 
