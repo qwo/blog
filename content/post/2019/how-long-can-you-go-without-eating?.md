@@ -1,7 +1,6 @@
 ---
 title: "How Long Can You Go Without Eating?"
 description: "notes from fasting for a week"
-tags: ["diet"]
 date: 2019-10-25T17:25:58-04:00
 ---
 
