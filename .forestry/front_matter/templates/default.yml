@@ -11,3 +11,14 @@ fields:
 - type: datetime
   name: date
   label: date
+- name: tags
+  type: text
+  config:
+    required: false
+  label: tags
+- name: draft
+  type: text
+  config:
+    required: false
+  label: draft
+  default: 'true'
