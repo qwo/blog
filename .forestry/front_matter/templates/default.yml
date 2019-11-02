@@ -22,3 +22,5 @@ fields:
     required: false
   label: draft
   default: 'true'
+pages:
+- content/2019/standardizing-your-units.md
