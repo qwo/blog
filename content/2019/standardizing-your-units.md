@@ -17,4 +17,4 @@ Some fun facts:
 I was encouraged to start thinking ways I could start incorporating more universal units in my life.
 
 * I changed my watch from[ EST to UTC](https://en.wikipedia.org/wiki/Coordinated_Universal_Time) which has made reading server logs much easier! 
-* I changed all my weather temperature units from Fahrenheit to Celsius. (I still find myself doing Celsius x2 + 32 to gauge temperature 
+* I changed all my weather temperature units from Fahrenheit to Celsius. (I myself doing Celsius x2 + 32 to gauge temperature but less as time goes on)
