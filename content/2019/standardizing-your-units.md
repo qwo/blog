@@ -6,4 +6,6 @@ tags = ""
 title = "Standardizing your units"
 
 +++
-A misconception I held that the US was on Imperial units. The US uses United States Customary Units, which has a common ancestry with  
+A misconception I held that the US was on Imperial units. The US uses United States Customary Units, which has a common ancestry with  English units but is different than imperial. 
+
+I started changing my frame of reference for units. For example 
