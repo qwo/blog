@@ -15,7 +15,7 @@ Some fun facts:
 
 I was encouraged to start thinking ways I could start incorporating more universal units in my life.
 
-* I changed my watch from[ EST to UTC](https://en.wikipedia.org/wiki/Coordinated_Universal_Time) which has made reading server logs much easier! 
+* I changed my watch from[ EST to UTC](https://en.wikipedia.org/wiki/Coordinated_Universal_Time) and thinking in 24 hour units which has made reading server logs much easier! 
 * I changed all my weather temperature units from **Fahrenheit** to **Celsius**. (I myself doing Celsius x2 + 32 to gauge temperature but less as time goes on)
 * I started using **Kilometers** as the standard unit of distance on all my routing apps. It makes you feel more accomplished when you walk 3 kms vs a mile! 
 * I've slowly adopted using **kilograms** instead of **pounds** for personal units but its hard to purchase things commercial not in pounds or ounces. 
