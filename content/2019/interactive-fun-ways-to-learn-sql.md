@@ -1,8 +1,8 @@
 +++
 date = 2019-11-05T05:00:00Z
-description = ""
-tags = "['recurse']"
-title = "Interactive Engaging  Ways to Learn SQL ! "
+description = "small links to sql "
+tags = ["recurse"]
+title = "Interactive Engaging Ways to Learn SQL ! "
 
 +++
 There are so many sources to learn SQL on the internet
