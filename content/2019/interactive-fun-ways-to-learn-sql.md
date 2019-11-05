@@ -1,9 +1,8 @@
 +++
 date = 2019-11-05T05:00:00Z
 description = ""
-draft = true
 tags = "recurse"
-title = "Interactive Fun Ways to Learn SQL ! "
+title = "Interactive Engaging  Ways to Learn SQL ! "
 
 +++
 There are so many sources to learn SQL on the internet
