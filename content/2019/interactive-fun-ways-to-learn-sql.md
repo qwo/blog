@@ -1,7 +1,7 @@
 +++
 date = 2019-11-05T05:00:00Z
 description = ""
-tags = "recurse"
+tags = "['recurse']"
 title = "Interactive Engaging  Ways to Learn SQL ! "
 
 +++
