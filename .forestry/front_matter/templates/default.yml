@@ -11,17 +11,16 @@ fields:
 - type: datetime
   name: date
   label: date
-- name: tags
-  type: text
-  config:
-    required: false
-  label: tags
 - name: draft
   type: text
   config:
     required: false
   label: draft
   default: 'true'
+- name: tags
+  type: tag_list
+  default: []
+  label: tags
 pages:
 - content/2019/interactive-fun-ways-to-learn-sql.md
 - content/2019/standardizing-your-units.md
