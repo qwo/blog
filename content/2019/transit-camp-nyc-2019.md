@@ -14,7 +14,6 @@ Here are my long form notes from the event.
 https://docs.google.com/document/d/1Hcuxh2zTQ8owxDnYScx88gOVSfLepFj6pT0btSpgbtg/edit
 
 
-{{< tweet 1183047752894353409 >}}
 
 ## Takeaways
 

@@ -46,8 +46,6 @@ RC is a Community
 ---
 After the presentations, many of us stuck around. We talked and got to know each other more. We made weekend plans, we shared what each other were hoping to work on. We shared our backgrounds and what we hoped to do in the future. We went for pizza at this place called [Joeys's](http://www.joeypepspizza.com/index/Joey_Pepperonis_Pizza___New_York_City.html), they do dollar pizza cheese pizza slices. A group of us came back to the space and played a game called [Contact](http://forum.frontrowcrew.com/discussion/7294/learn-how-to-play-the-word-game-contact) for a few hours.
 
-<br/>{{<tweet 797835453642801152>}}<br/>
-
 Recurse is unique. <br/>
 Recurse is an experiment. <br/>
 Recurse is what you make it. <br/>
