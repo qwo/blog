@@ -5,6 +5,11 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
+  path: ''
+  label: '2020'
+  create: all
+  match: "**/*"
+- type: directory
   path: blog/content/2020
   label: '2020'
   create: all
