@@ -5,6 +5,11 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
+  path: content
+  label: Pages
+  create: all
+  match: "*"
+- type: directory
   path: ''
   label: '2020'
   create: all
@@ -17,13 +22,18 @@ sections:
   templates:
   - default
 - type: directory
-  path: content
-  label: Pages
+  path: content/post
+  label: Post
   create: all
-  match: "*"
+  match: "**/*"
 - type: directory
   path: content/recurse
   label: Recurse
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/2019
+  label: '2019'
   create: all
   match: "**/*"
 - type: directory
@@ -34,16 +44,6 @@ sections:
 - type: directory
   path: content/2017
   label: '2017'
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/post
-  label: Post
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/2019
-  label: '2019'
   create: all
   match: "**/*"
 upload_dir: static/uploads
