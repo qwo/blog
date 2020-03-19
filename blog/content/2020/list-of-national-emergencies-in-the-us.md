@@ -1,7 +1,7 @@
 +++
 date = 2020-03-14T04:00:00Z
 description = "How often has it happened up to 2020?"
-tags = ["life"]
+tags = ["life", "datascience"]
 title = "List of National Emergencies in the US"
 
 +++
@@ -19,7 +19,8 @@ I uploaded it to a spreadsheet for quick facts
 
 QF
 
-* Been 69 different National States Of Emergecneis
+* Been 68 different National States Of Emergencies, 
+* 34 have ended, 34 are still ongoing
 * Different Types include
   * Arms
   * Economic
@@ -29,6 +30,8 @@ QF
   * Public health
   * Sanctions
   * Trade
+* Clinton Declared the most at # 16
+* The most common type declared are economic sanctions
 
 To note
 
