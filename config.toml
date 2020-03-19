@@ -20,7 +20,7 @@ paginate = 8
 	# Enter optionally your twitter account
 	twitter = "stanzheng"
 	enableRSS = true
-	aboutURL = "https://stanzheng.com"
+	aboutURL = "https://stanley.zheng.nyc"
 	subscribeURL = "https://tinyletter.com/stanzheng"
 	# Add custom assets with their paths relative to the static folder
 	customCSS = []
