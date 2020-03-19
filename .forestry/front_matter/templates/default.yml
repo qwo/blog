@@ -22,6 +22,7 @@ fields:
   default: []
   label: tags
 pages:
+- blog/content/2020/list-of-national-emergencies-in-the-us-1.md
 - blog/content/2020/list-of-national-emergencies-in-the-us.md
 - content/2019/interactive-fun-ways-to-learn-sql.md
 - content/2019/standardizing-your-units.md
