@@ -29,10 +29,10 @@ The first one ever declared was under Wilson February 5, 1917 which establish th
 
 The second one ever was  under Franklin Roosevelt in 	March 9, 1933 largely to curve the great depression
 
-The following ones under Truman were in anticipation and response to World War II. 
+The following ones under Truman were in anticipation and response to World War II.
 
-Another interesting one was under Truman, December 16, 
+Another interesting one was under Truman was to fight communism starting December 16,
 
-ending September 14, 1978	
+ending September 14, 1978
 
- "Proclaiming the Existence of a National Emergency (Proclamation 2914)\[16\] – declared that the United States' "military, naval, air and civilian defenses" should be used to fight communism as part of the Korean War.\[17\] The second of four emergencies cited by Senate Report 93-549 as never having been terminated.\[9\]
+> "Proclaiming the Existence of a National Emergency (Proclamation 2914)\[16\] – declared that the United States' "military, naval, air and civilian defenses" should be used to fight communism as part of the Korean War.\[17\] The second of four emergencies cited by Senate Report 93-549 as never having been terminated.\[9\]
