@@ -53,8 +53,8 @@ paginate = 8
 
 # Add additional social link entries underneath
 [social]
-    twitter   = "https://www.twitter.com/stanzheng"
-    instagram = "https://www.instagram.com/yostanzheng"
-    github    = "https://www.github.com/stanzheng"
-	linkedin  = "https://www.linkedin.com/in/stanley-zheng"
-	rss  	  = "/blog/index.xml"
+    twitter   = "https://www.twitter.com/stanleyzhengnyc"
+    instagram = "https://www.instagram.com/stanleyzhengnyc"
+    github    = "https://www.github.com/stanleyzhengnyc"
+    linkedin  = "https://www.linkedin.com/in/stanley-zheng"
+    rss  	  = "/blog/index.xml"
