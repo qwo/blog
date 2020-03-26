@@ -2,7 +2,7 @@
 date = 2020-03-26T04:00:00Z
 description = "using airtable to help a non-profit share data about eateries and grocery stores"
 tags = ["cicvictech", "chinatown"]
-title = "#SupportChinatown"
+title = "SupportChinatown"
 
 +++
 I saw that  chinatown nyc, a businesses development community group was  sharing posting restaurant last week that were open during the crisis. They unfortunately were doing JPGs with spreadsheets which are unfortunately difficult to read and parse.
