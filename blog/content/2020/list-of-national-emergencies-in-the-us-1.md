@@ -1,7 +1,6 @@
 +++
 date = 2020-03-14T04:00:00Z
 description = "How often has it happened up to 2020?"
-draft = true
 tags = ["life", "datascience"]
 title = "List of National Emergencies in the US"
 
