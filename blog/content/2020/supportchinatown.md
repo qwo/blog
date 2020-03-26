@@ -2,7 +2,7 @@
 date = 2020-03-26T04:00:00Z
 description = "using airtable to help a non-profit share data about eateries and grocery stores"
 draft = true
-tags = []
+tags = ["cicvictech", "chinatown"]
 title = "#SupportChinatown"
 
 +++
