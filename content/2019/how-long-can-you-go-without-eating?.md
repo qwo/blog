@@ -1,9 +1,10 @@
 ---
-title: "How Long Can You Go Without Eating?"
-description: "notes from fasting for a week"
-date: 2019-10-25T17:25:58-04:00
----
+title: How Long Can You Go Without Eating?
+description: notes from fasting for a week
+date: 2019-10-25T21:25:58.000+00:00
+draft: true
 
+---
 Lately I have had more control over my schedule. I wanted to experiment with alternative diets and wanted to test going on a week long fast. I was able to make it about 6 days* without meals before I caved in.
 
 There are some studies that show that fasting improves mental focus and energy. I had previously participated in the [16/8 fast](https://www.healthline.com/nutrition/16-8-intermittent-fasting), where a participant eats in 8 hour windows and fasts for the rest. 
