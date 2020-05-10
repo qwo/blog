@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://stanleyzhengnyc.github.io/blog/"
+baseurl = "https://blog.zheng.nyc/"
 languageCode = "en-us"
 title = "Stanley Zheng"
 theme = "cactus"
@@ -21,7 +21,7 @@ paginate = 8
 	twitter = "stanzheng"
 	enableRSS = true
 	aboutURL = "https://stanley.zheng.nyc"
-	subscribeURL = "https://tinyletter.com/stanzheng"
+	# subscribeURL = "https://tinyletter.com/stanzheng"
 	# Add custom assets with their paths relative to the static folder
 	customCSS = []
 	customJS  = []
@@ -32,7 +32,7 @@ paginate = 8
 	# Navigation links
 	home = ""
 	about = ""
-	subscribe = "Join My TinyLetter!"
+	# subscribe = "Join My TinyLetter!"
 	# Pagination links
 	olderPosts = ""
 	newerPosts = ""
