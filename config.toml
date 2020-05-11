@@ -57,4 +57,4 @@ paginate = 8
     instagram = "https://www.instagram.com/stanleyzhengnyc"
     github    = "https://www.github.com/stanleyzhengnyc"
     linkedin  = "https://www.linkedin.com/in/stanley-zheng"
-    rss  	  = "/blog/index.xml"
+    rss  	  = "/index.xml"
